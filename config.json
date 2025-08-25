@@ -18,7 +18,8 @@
       "UPTOP",
       "AVAIL",
       "ALCH",
-      "OIK"
+      "OIK",
+      "BLUE"
     ],
     "bn_alpha_history": [
       "BOB",
