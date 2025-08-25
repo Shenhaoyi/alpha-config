@@ -19,7 +19,8 @@
       "AVAIL",
       "ALCH",
       "OIK",
-      "BLUE"
+      "BLUE",
+      "ECHO"
     ],
     "bn_alpha_history": [
       "BOB",
