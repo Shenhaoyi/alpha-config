@@ -27,7 +27,9 @@
       "MERL",
       "CA",
       "DGC",
-      "CUDIS"
+      "CUDIS",
+      "SKI",
+      "ECHO"
     ],
     "bn_alpha_history": [
       "BOB",
