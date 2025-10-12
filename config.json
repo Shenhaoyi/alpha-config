@@ -16,7 +16,13 @@
     ],
     "use_bn_dex_price": [
       "DL",
-      "BTG"
+      "BTG",
+      "RIVER",
+      "MAIGA",
+      "LYN",
+      "P",
+      "KGEN",
+      "CDL"
     ]
   }
 }
