@@ -15,6 +15,8 @@
       "GAIA"
     ],
     "use_bn_dex_price": [
+      "DL",
+      "BTG"
     ]
   }
 }
