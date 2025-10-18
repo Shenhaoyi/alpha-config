@@ -12,9 +12,7 @@
       "MERL",
       "AIOT"
     ],
-    "bn_alpha_history": [
-      "GAIA"
-    ],
+    "bn_alpha_history": [],
     "use_bn_dex_price": [
       "DL",
       "BTG",
