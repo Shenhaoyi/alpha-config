@@ -8,11 +8,10 @@
     ],
     "okx_alpha": [
     ],
-    "okx_alpha_big_change": [
-      "MERL",
-      "AIOT"
+    "okx_alpha_big_change": [],
+    "bn_alpha_history": [
+      "RIVER",
     ],
-    "bn_alpha_history": [],
     "use_bn_dex_price": [
       "DL",
       "BTG",
