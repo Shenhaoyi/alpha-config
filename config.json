@@ -14,22 +14,6 @@
     "bn_alpha_history": [
       "RIVER"
     ],
-    "use_bn_dex_price": [
-      "DL",
-      "RIVER",
-      "MAIGA",
-      "LYN",
-      "P",
-      "KGEN",
-      "CDL",
-      "CLO",
-      "LAB",
-      "WBAI",
-      "ANOME",
-      "SUBHUB",
-      "RVV",
-      "COAI",
-      "SIGMA"
-    ]
+    "use_bn_dex_price": []
   }
 }
