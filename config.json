@@ -14,6 +14,8 @@
     "bn_alpha_history": [
       "RIVER"
     ],
-    "use_bn_dex_price": []
+    "use_bn_dex_price": [
+      "Anome"
+    ]
   }
 }
