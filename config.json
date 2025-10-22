@@ -11,7 +11,9 @@
     "okx_alpha_big_change": [
       "SOON"
     ],
-    "bn_alpha_history": [],
+    "bn_alpha_history": [
+      "RIVER"
+    ],
     "use_bn_dex_price": [
       "ANOME"
     ]
