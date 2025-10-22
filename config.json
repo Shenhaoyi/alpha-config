@@ -17,6 +17,9 @@
     ],
     "use_bn_dex_price": [
       "ANOME"
+    ],
+    "order_book": [
+      "CLO"
     ]
   }
 }
