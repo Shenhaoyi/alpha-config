@@ -15,7 +15,8 @@
       "GAIA"
     ],
     "use_bn_dex_price": [
-      "ANOME"
+      "ANOME",
+      "SAROS"
     ],
     "order_book": [
       "CLO",
