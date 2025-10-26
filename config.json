@@ -16,7 +16,8 @@
     ],
     "use_bn_dex_price": [
       "ANOME",
-      "SAROS"
+      "SAROS",
+      "COAI"
     ],
     "order_book": [
       "CLO",
