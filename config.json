@@ -20,7 +20,8 @@
     "order_book": [
       "MET",
       "ANOME",
-      "LIGHT"
+      "LIGHT",
+      "USELESS"
     ]
   }
 }
