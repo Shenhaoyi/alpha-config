@@ -11,20 +11,17 @@
     "bn_alpha_history": [
       "RIVER",
       "GAIA",
-      "USELESS",
-      "XNAP"
+      "USELESS"
     ],
     "use_bn_dex_price": [
       "ANOME",
       "SAROS",
-      "COAI"
+      "COAI",
+      "XNAP",
+      "DL"
     ],
     "order_book": [
-      "MET",
-      "ANOME",
-      "DL",
-      "XNAP",
-      "POPCAT"
+      "MET"
     ]
   }
 }
