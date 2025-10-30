@@ -21,7 +21,8 @@
       "APR"
     ],
     "order_book": [
-      "MET"
+      "MET",
+      "M"
     ]
   }
 }
