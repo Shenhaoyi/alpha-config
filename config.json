@@ -7,27 +7,19 @@
       "MIRAI"
     ],
     "okx_alpha": [],
-    "okx_alpha_big_change": [
-      "XNAP"
-    ],
+    "okx_alpha_big_change": [],
     "bn_alpha_history": [
-      "RIVER",
-      "GAIA",
       "USELESS"
     ],
     "use_bn_dex_price": [
       "ANOME",
-      "SAROS",
       "COAI",
       "XNAP",
       "DL",
-      "ASP",
       "BLUAI"
     ],
     "order_book": [
-      "MET",
-      "B3",
-      "AVL"
+      "MET"
     ]
   }
 }
