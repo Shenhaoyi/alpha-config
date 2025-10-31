@@ -12,19 +12,14 @@
       "USELESS"
     ],
     "use_bn_dex_price": [
-      "ANOME",
       "COAI",
       "XNAP",
       "DL",
       "BLUAI",
-      "FST",
-      "APR",
       "ZORA",
       "DONKEY",
       "pippin"
     ],
-    "order_book": [
-      "MET"
-    ]
+    "order_book": []
   }
 }
