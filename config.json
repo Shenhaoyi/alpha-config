@@ -7,12 +7,9 @@
       "MIRAI"
     ],
     "okx_alpha": [],
-    "okx_alpha_big_change": [
-      "PUNDIAI"
-    ],
+    "okx_alpha_big_change": [],
     "bn_alpha_history": [
-      "USELESS",
-      "PUNDIAI"
+      "USELESS"
     ],
     "use_bn_dex_price": [
       "ANOME",
@@ -21,11 +18,11 @@
       "DL",
       "BLUAI",
       "FST",
-      "APR"
+      "APR",
+      "ZORA"
     ],
     "order_book": [
-      "MET",
-      "PUNDIAI"
+      "MET"
     ]
   }
 }
