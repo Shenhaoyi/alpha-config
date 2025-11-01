@@ -9,7 +9,8 @@
     "okx_alpha": [],
     "okx_alpha_big_change": [],
     "bn_alpha_history": [
-      "USELESS"
+      "USELESS",
+      "BEAT"
     ],
     "use_bn_dex_price": [
       "COAI",
@@ -25,8 +26,6 @@
       "BEAT",
       "UPTOP"
     ],
-    "order_book": [
-      "BEAT"
-    ]
+    "order_book": []
   }
 }
