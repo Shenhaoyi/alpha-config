@@ -25,7 +25,8 @@
       "BEAT"
     ],
     "order_book": [
-      "BEAT"
+      "BEAT",
+      "UPTOP"
     ]
   }
 }
