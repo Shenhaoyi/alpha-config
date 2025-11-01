@@ -22,11 +22,11 @@
       "AVL",
       "PIGGY",
       "ai16z",
-      "BEAT"
-    ],
-    "order_book": [
       "BEAT",
       "UPTOP"
+    ],
+    "order_book": [
+      "BEAT"
     ]
   }
 }
