@@ -12,7 +12,8 @@
     ],
     "bn_alpha_history": [
       "USELESS",
-      "BEAT"
+      "BEAT",
+      "BOOST"
     ],
     "use_bn_dex_price": [
       "COAI",
@@ -38,7 +39,6 @@
       "STBL"
     ],
     "order_book": [
-      "BOOST",
       "ZORA",
       "M"
     ]
