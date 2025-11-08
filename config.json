@@ -8,41 +8,23 @@
     ],
     "okx_alpha": [],
     "okx_alpha_big_change": [
-      "BTG",
-      "LONG"
+      "BTG"
     ],
     "bn_alpha_history": [
       "USELESS",
-      "BEAT",
       "BOOST"
     ],
     "use_bn_dex_price": [
       "COAI",
-      "XNAP",
       "DL",
-      "BLUAI",
       "ZORA",
-      "DONKEY",
-      "pippin",
       "AVL",
-      "PIGGY",
-      "ai16z",
       "BEAT",
-      "UPTOP",
-      "Q",
-      "jellyjelly",
       "RIVER",
       "BTG",
-      "ANOME",
-      "TYCOON",
-      "SIGMA",
-      "WBAI",
-      "STBL",
       "SOON",
-      "CLO",
       "B2",
       "MYX",
-      "BAS",
       "ELIZAOS"
     ],
     "order_book": [
