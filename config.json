@@ -7,34 +7,28 @@
       "MIRAI"
     ],
     "okx_alpha": [],
-    "okx_alpha_big_change": [
-      "BTG"
-    ],
+    "okx_alpha_big_change": [],
     "bn_alpha_history": [
-      "USELESS",
-      "BOOST"
+      "USELESS"
     ],
     "use_bn_dex_price": [
       "COAI",
       "DL",
       "ZORA",
-      "AVL",
       "BEAT",
       "RIVER",
-      "BTG",
-      "SOON",
       "ELIZAOS",
-      "BAS",
       "ZKJ",
-      "SLX",
+      "BLESS"
+    ],
+    "night": [
       "MYX",
       "B2",
-      "BLESS"
+      "BAS"
     ],
     "order_book": [
       "ZORA",
-      "BEAT",
-      "SOON"
+      "BEAT"
     ]
   }
 }
