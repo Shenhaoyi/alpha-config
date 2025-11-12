@@ -24,12 +24,17 @@
       "MET",
       "TIMI",
       "M",
-      "ARIAIP"
+      "ARIAIP",
+      "MYX",
+      "B2",
+      "BAS",
+      "BLESS"
     ],
     "night": [
       "MYX",
       "B2",
-      "BAS"
+      "BAS",
+      "BLESS"
     ],
     "order_book": [
       "BOOST"
