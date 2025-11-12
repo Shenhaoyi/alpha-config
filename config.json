@@ -17,16 +17,10 @@
     "use_bn_dex_price": [
       "COAI",
       "DL",
-      "ZORA",
       "RIVER",
       "ZKJ",
       "MET",
-      "TIMI",
-      "ARIAIP",
-      "MYX",
-      "B2",
-      "BAS",
-      "BLESS"
+      "TIMI"
     ],
     "night": [
       "MYX",
