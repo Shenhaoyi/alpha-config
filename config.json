@@ -31,7 +31,8 @@
       "BAS"
     ],
     "order_book": [
-      "BOOST"
+      "BOOST",
+      "BEAT"
     ]
   }
 }
