@@ -7,12 +7,9 @@
       "MIRAI"
     ],
     "okx_alpha": [],
-    "okx_alpha_big_change": [
-      "BOOST"
-    ],
+    "okx_alpha_big_change": [],
     "bn_alpha_history": [
-      "USELESS",
-      "BOOST"
+      "USELESS"
     ],
     "use_bn_dex_price": [
       "COAI",
@@ -20,7 +17,7 @@
       "RIVER",
       "ZKJ",
       "MET",
-      "TIMI"
+      "BTG"
     ],
     "night": [
       "MYX",
@@ -28,8 +25,6 @@
       "BAS",
       "BLESS"
     ],
-    "order_book": [
-      "BOOST"
-    ]
+    "order_book": []
   }
 }
