@@ -21,10 +21,6 @@
       "DONKEY",
       "TIMI",
       "SIGMA",
-      "MYX",
-      "B2",
-      "BAS",
-      "BLESS",
       "ANOME",
       "WBAI"
     ],
@@ -35,8 +31,7 @@
       "BLESS"
     ],
     "order_book": [
-      "BOOST",
-      "TAT"
+      "BOOST"
     ]
   }
 }
