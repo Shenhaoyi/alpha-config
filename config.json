@@ -20,11 +20,7 @@
       "BOOST",
       "DONKEY",
       "TIMI",
-      "SIGMA",
-      "MYX",
-      "B2",
-      "BAS",
-      "BLESS"
+      "SIGMA"
     ],
     "night": [
       "MYX",
@@ -33,7 +29,8 @@
       "BLESS"
     ],
     "order_book": [
-      "BOOST"
+      "BOOST",
+      "TAT"
     ]
   }
 }
