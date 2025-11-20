@@ -31,7 +31,8 @@
       "BLESS",
       "XNY",
       "WAI",
-      "DGRAM"
+      "DGRAM",
+      "APR"
     ],
     "night": [
       "MYX",
