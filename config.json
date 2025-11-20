@@ -9,8 +9,7 @@
     "okx_alpha": [],
     "okx_alpha_big_change": [
       "CORL",
-      "OIK",
-      "XNY"
+      "OIK"
     ],
     "bn_alpha_history": [
       "USELESS"
@@ -22,17 +21,10 @@
       "DONKEY",
       "SIGMA",
       "WBAI",
-      "AIA",
       "COAI",
       "XNY",
       "WAI",
-      "MYX",
-      "B2",
-      "BAS",
-      "BLESS",
-      "DGRAM",
       "BTG",
-      "BEAT",
       "ULTI"
     ],
     "night": [
@@ -41,6 +33,8 @@
       "BAS",
       "BLESS"
     ],
-    "order_book": []
+    "order_book": [
+      "OBOL"
+    ]
   }
 }
