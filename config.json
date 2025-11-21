@@ -9,7 +9,8 @@
     "okx_alpha": [],
     "okx_alpha_big_change": [
       "CORL",
-      "OIK"
+      "OIK",
+      "SOON"
     ],
     "bn_alpha_history": [
       "USELESS"
@@ -36,7 +37,8 @@
       "BLESS"
     ],
     "order_book": [
-      "OBOL"
+      "OBOL",
+      "SOON"
     ]
   }
 }
