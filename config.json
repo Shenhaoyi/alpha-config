@@ -28,11 +28,7 @@
       "BTG",
       "ULTI",
       "KILO",
-      "SOON",
-      "MYX",
-      "B2",
-      "BAS",
-      "BLESS"
+      "SOON"
     ],
     "night": [
       "MYX",
@@ -41,7 +37,6 @@
       "BLESS"
     ],
     "order_book": [
-      "OBOL",
       "SOON"
     ]
   }
