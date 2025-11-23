@@ -9,8 +9,7 @@
     "okx_alpha": [],
     "okx_alpha_big_change": [
       "CORL",
-      "OIK",
-      "SOON"
+      "OIK"
     ],
     "bn_alpha_history": [
       "USELESS"
@@ -23,19 +22,16 @@
       "SIGMA",
       "WBAI",
       "COAI",
-      "XNY",
       "WAI",
       "BTG",
       "ULTI",
       "KILO",
-      "SOON",
       "MYX",
       "B2",
       "BAS",
       "BLESS",
       "MERL",
       "XNY",
-      "DIGI",
       "AT"
     ],
     "night": [
@@ -44,8 +40,6 @@
       "BAS",
       "BLESS"
     ],
-    "order_book": [
-      "SOON"
-    ]
+    "order_book": []
   }
 }
