@@ -12,7 +12,8 @@
       "OIK"
     ],
     "bn_alpha_history": [
-      "USELESS"
+      "USELESS",
+      "ARTX"
     ],
     "use_bn_dex_price": [
       "DL",
@@ -46,8 +47,6 @@
       "BAS",
       "BLESS"
     ],
-    "order_book": [
-      "ARTX"
-    ]
+    "order_book": []
   }
 }
