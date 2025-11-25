@@ -8,12 +8,10 @@
     ],
     "okx_alpha": [],
     "okx_alpha_big_change": [
-      "CORL",
-      "OIK"
+      "CORL"
     ],
     "bn_alpha_history": [
-      "USELESS",
-      "ARTX"
+      "USELESS"
     ],
     "use_bn_dex_price": [
       "DL",
@@ -25,7 +23,6 @@
       "COAI",
       "WAI",
       "BTG",
-      "ULTI",
       "KILO",
       "MYX",
       "B2",
@@ -33,7 +30,6 @@
       "BLESS",
       "MERL",
       "XNY",
-      "AT",
       "ANOME",
       "TIMI",
       "KO",
