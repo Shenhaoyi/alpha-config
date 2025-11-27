@@ -8,10 +8,11 @@
     ],
     "okx_alpha": [],
     "okx_alpha_big_change": [
-      "CORL"
+      "CORL",
+      "FOLKS"
     ],
     "bn_alpha_history": [
-      "USELESS"
+      "FOLKS"
     ],
     "use_bn_dex_price": [
       "DL",
@@ -43,8 +44,6 @@
       "BAS",
       "BLESS"
     ],
-    "order_book": [
-      "FOLKS"
-    ]
+    "order_book": []
   }
 }
