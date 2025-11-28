@@ -3,8 +3,7 @@
   "data": {
     "bn_alpha2": [
       "MOODENG",
-      "GOAT",
-      "MIRAI"
+      "GOAT"
     ],
     "okx_alpha": [],
     "okx_alpha_big_change": [
@@ -13,9 +12,7 @@
       "BEAT",
       "PIGGY"
     ],
-    "bn_alpha_history": [
-      "FOLKS"
-    ],
+    "bn_alpha_history": [],
     "use_bn_dex_price": [
       "DL",
       "RIVER",
@@ -25,8 +22,6 @@
       "WBAI",
       "COAI",
       "WAI",
-      "BTG",
-      "KILO",
       "MYX",
       "B2",
       "BAS",
@@ -39,7 +34,8 @@
       "GM",
       "PIGGY",
       "BEAT",
-      "FROGGIE",
+      "BTG",
+      "FOLKS"
       "DIGI",
       "IRYS"
     ],
@@ -53,7 +49,7 @@
       "BEAT",
       "PIGGY",
       "BTG",
-      "MIRROR"
+      "FOLKS"
     ]
   }
 }
