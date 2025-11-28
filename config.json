@@ -9,7 +9,9 @@
     "okx_alpha": [],
     "okx_alpha_big_change": [
       "CORL",
-      "FOLKS"
+      "FOLKS",
+      "BEAT",
+      "PIGGY"
     ],
     "bn_alpha_history": [
       "FOLKS"
@@ -45,6 +47,9 @@
       "BAS",
       "BLESS"
     ],
-    "order_book": []
+    "order_book": [
+      "BEAT",
+      "PIGGY"
+    ]
   }
 }
