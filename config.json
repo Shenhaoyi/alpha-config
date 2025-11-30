@@ -29,18 +29,12 @@
       "BAS",
       "BLESS",
       "XNY",
-      "ANOME",
       "KO",
       "ARTX",
       "PLAYSOLANA",
-      "GM",
-      "PIGGY",
-      "BEAT",
       "BTG",
+      "ANOME",
       "FOLKS",
-      "DIGI",
-      "IRYS",
-      "CLO",
       "GUA"
     ],
     "night": [
@@ -50,12 +44,8 @@
       "BLESS"
     ],
     "order_book": [
-      "BEAT",
-      "PIGGY",
-      "BTG",
       "FOLKS",
-      "ANOME",
-      "M"
+      "ANOME"
     ]
   }
 }
