@@ -10,7 +10,8 @@
       "CORL",
       "OIK",
       "FOLKS",
-      "ANOME"
+      "ANOME",
+      "BEAT"
     ],
     "bn_alpha_history": [],
     "use_bn_dex_price": [
@@ -42,7 +43,8 @@
     ],
     "order_book": [
       "FOLKS",
-      "ANOME"
+      "ANOME",
+      "BEAT"
     ]
   }
 }
