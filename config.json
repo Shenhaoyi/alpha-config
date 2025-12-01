@@ -9,7 +9,6 @@
     "okx_alpha_big_change": [
       "CORL",
       "OIK",
-      "FOLKS",
       "ANOME",
       "Beat",
       "BLESS"
@@ -17,25 +16,19 @@
     "bn_alpha_history": [],
     "use_bn_dex_price": [
       "DL",
-      "RIVER",
       "ZKJ",
       "SIGMA",
       "WBAI",
-      "COAI",
-      "WAI",
       "MYX",
       "B2",
       "BAS",
       "BLESS",
       "XNY",
-      "KO",
       "PLAYSOLANA",
       "BTG",
       "ANOME",
-      "FOLKS",
-      "GUA",
       "IRYS",
-      "GAIX"
+      "BEAT"
     ],
     "night": [
       "MYX",
@@ -44,7 +37,6 @@
       "BLESS"
     ],
     "order_book": [
-      "FOLKS",
       "ANOME",
       "BEAT"
     ]
