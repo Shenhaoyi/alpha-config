@@ -41,7 +41,9 @@
     ],
     "order_book": [
       "ANOME",
-      "BEAT"
+      "BEAT",
+      "WBAI",
+      "M"
     ]
   }
 }
