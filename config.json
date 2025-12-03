@@ -10,7 +10,6 @@
       "CORL",
       "OIK",
       "ANOME",
-      "Beat",
       "BLESS",
       "BOOST"
     ],
@@ -29,13 +28,9 @@
       "BTG",
       "ANOME",
       "IRYS",
-      "BEAT",
-      "RLS",
       "GUA",
       "ARTX",
-      "AIA",
-      "FOLKS",
-      "COAI"
+      "FOLKS"
     ],
     "night": [
       "MYX",
@@ -45,7 +40,6 @@
     ],
     "order_book": [
       "ANOME",
-      "BEAT",
       "WBAI",
       "M",
       "FOLKS"
