@@ -11,9 +11,12 @@
       "OIK",
       "ANOME",
       "BLESS",
-      "BOOST"
+      "BOOST",
+      "STABLE"
     ],
-    "bn_alpha_history": [],
+    "bn_alpha_history": [
+      "STABLE"
+    ],
     "use_bn_dex_price": [
       "DL",
       "ZKJ",
@@ -31,8 +34,7 @@
       "FOLKS",
       "COAI",
       "RIVER",
-      "LAVA",
-      "STABLE"
+      "LAVA"
     ],
     "night": [
       "MYX",
@@ -56,8 +58,7 @@
       "ANOME",
       "WBAI",
       "M",
-      "FOLKS",
-      "STABLE"
+      "FOLKS"
     ]
   }
 }
