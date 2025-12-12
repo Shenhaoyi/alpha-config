@@ -7,16 +7,11 @@
     ],
     "okx_alpha": [],
     "okx_alpha_big_change": [
-      "CORL",
       "OIK",
       "ANOME",
-      "BLESS",
-      "BOOST",
-      "STABLE"
+      "BLESS"
     ],
-    "bn_alpha_history": [
-      "STABLE"
-    ],
+    "bn_alpha_history": [],
     "use_bn_dex_price": [
       "DL",
       "ZKJ",
@@ -33,8 +28,7 @@
       "GUA",
       "FOLKS",
       "COAI",
-      "RIVER",
-      "LAVA"
+      "RIVER"
     ],
     "night": [
       "MYX",
