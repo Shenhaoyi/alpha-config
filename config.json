@@ -9,9 +9,12 @@
     "okx_alpha_big_change": [
       "OIK",
       "ANOME",
-      "BLESS"
+      "BLESS",
+      "STABLE"
     ],
-    "bn_alpha_history": [],
+    "bn_alpha_history": [
+      "STABLE"
+    ],
     "use_bn_dex_price": [
       "DL",
       "ZKJ",
