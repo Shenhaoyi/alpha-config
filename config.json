@@ -14,7 +14,9 @@
       "FOLKS"
     ],
     "bn_alpha_history": [
-      "STABLE"
+      "STABLE",
+      "FOLKS",
+      "RAVE"
     ],
     "use_bn_dex_price": [
       "DL",
@@ -57,7 +59,6 @@
       "ANOME",
       "WBAI",
       "M",
-      "FOLKS",
       "AERO",
       "IRYS"
     ]
