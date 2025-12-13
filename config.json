@@ -7,16 +7,9 @@
     ],
     "okx_alpha": [],
     "okx_alpha_big_change": [
-      "OIK",
-      "ANOME",
-      "BLESS",
-      "STABLE"
+      "OIK"
     ],
-    "bn_alpha_history": [
-      "STABLE",
-      "FOLKS",
-      "RAVE"
-    ],
+    "bn_alpha_history": [],
     "use_bn_dex_price": [
       "DL",
       "ZKJ",
@@ -31,8 +24,7 @@
       "IRYS",
       "GUA",
       "COAI",
-      "RIVER",
-      "RAVE"
+      "RIVER"
     ],
     "night": [
       "MYX",
@@ -52,12 +44,7 @@
       "TOWN",
       "Mubarakah",
       "GATA",
-      "上面是买卖差价有点巨大的",
-      "ANOME",
-      "WBAI",
-      "M",
-      "AERO",
-      "IRYS"
+      "上面是买卖差价有点巨大的"
     ]
   }
 }
