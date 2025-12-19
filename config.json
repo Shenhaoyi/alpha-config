@@ -1,10 +1,7 @@
 {
   "code": 0,
   "data": {
-    "bn_alpha2": [
-      "MOODENG",
-      "GOAT"
-    ],
+    "bn_alpha2": [],
     "okx_alpha": [],
     "okx_alpha_big_change": [
       "OIK"
@@ -39,10 +36,7 @@
       "XNY"
     ],
     "order_book": [
-      "MIRAI",
       "USELESS",
-      "DARK",
-      "PERRY",
       "PUMPBTC",
       "Ghibli",
       "SUBHUB",
