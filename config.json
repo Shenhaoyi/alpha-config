@@ -39,9 +39,7 @@
     ],
     "order_book": [
       "真的需要屏蔽的",
-      "M",
-      "BOMB",
-      "RWA"
+      "M"
     ],
     "original_threshold": [
       "USELESS",
@@ -56,9 +54,7 @@
       "SUP",
       "PINGPONG",
       "MORE",
-      "BOMB",
-      "买卖差价有点巨大的，采用原始阈值",
-      "RTX"
+      "买卖差价有点巨大的，采用原始阈值"
     ]
   }
 }
