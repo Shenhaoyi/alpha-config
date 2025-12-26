@@ -40,7 +40,8 @@
     "order_book": [
       "真的需要屏蔽的",
       "M",
-      "BOMB"
+      "BOMB",
+      "RWA"
     ],
     "original_threshold": [
       "USELESS",
