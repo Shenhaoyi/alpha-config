@@ -4,9 +4,7 @@
     "bn_alpha2": [],
     "okx_alpha": [],
     "okx_alpha_big_change": [
-      "OIK",
-      "Froggie",
-      "MEW"
+      "OIK"
     ],
     "bn_alpha_history": [],
     "use_bn_dex_price": [
@@ -25,10 +23,8 @@
       "AERO",
       "MERL",
       "SAROS",
-      "COAI",
       "PINGPONG",
-      "WET",
-      "SENTIS"
+      "WET"
     ],
     "night": [
       "MYX",
@@ -54,7 +50,6 @@
       "SUP",
       "PINGPONG",
       "MORE",
-      "GATA",
       "买卖差价有点巨大的，采用原始阈值",
       "FST"
     ]
