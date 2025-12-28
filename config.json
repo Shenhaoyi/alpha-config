@@ -25,7 +25,8 @@
       "SAROS",
       "PINGPONG",
       "WET",
-      "TOKEN"
+      "TOKEN",
+      "MEW"
     ],
     "night": [
       "MYX",
@@ -55,8 +56,6 @@
       "FST",
       "K",
       "买卖差价有点巨大的，采用原始阈值",
-      "FLUID",
-      "FHE",
       "COLLECT"
     ]
   }
