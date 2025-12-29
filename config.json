@@ -6,13 +6,7 @@
     "okx_alpha_big_change": [
       "OIK"
     ],
-    "bn_alpha_history": [
-      "B3",
-      "DEGEN",
-      "YZY",
-      "DRIFT",
-      "arc"
-    ],
+    "bn_alpha_history": [],
     "use_bn_dex_price": [
       "DL",
       "ZKJ",
@@ -33,7 +27,8 @@
       "WET",
       "MEW",
       "BEAT",
-      "POWER"
+      "POWER",
+      "arc"
     ],
     "night": [
       "MYX",
