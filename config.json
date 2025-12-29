@@ -29,7 +29,8 @@
       "BEAT",
       "POWER",
       "arc",
-      "STABLE"
+      "STABLE",
+      "DEGEN"
     ],
     "night": [
       "MYX",
