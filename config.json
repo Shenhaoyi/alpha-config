@@ -4,7 +4,9 @@
     "bn_alpha2": [],
     "okx_alpha": [],
     "okx_alpha_big_change": [
-      "OIK"
+      "OIK",
+      "JOJO",
+      "AA"
     ],
     "bn_alpha_history": [],
     "use_bn_dex_price": [
