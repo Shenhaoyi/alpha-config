@@ -30,15 +30,16 @@
       "SAROS",
       "WET",
       "arc",
-      "COAI"
+      "COAI",
+      "ARTX",
+      "TOKEN"
     ],
     "night": [
       "MYX",
       "B2",
       "BAS",
       "BLESS",
-      "XNY",
-      "ARTX"
+      "XNY"
     ],
     "order_book": [
       "真的需要屏蔽的",
