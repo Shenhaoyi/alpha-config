@@ -6,9 +6,7 @@
     "okx_alpha_big_change": [
       "OIK"
     ],
-    "bn_alpha_history": [
-      "AVAAI"
-    ],
+    "bn_alpha_history": [],
     "use_bn_dex_price": [
       "DL",
       "ZKJ",
@@ -26,7 +24,8 @@
       "MERL",
       "SAROS",
       "WET",
-      "arc"
+      "arc",
+      "COAI"
     ],
     "night": [
       "MYX",
