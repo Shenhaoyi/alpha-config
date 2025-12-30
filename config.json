@@ -8,7 +8,9 @@
       "JOJO",
       "AA"
     ],
-    "bn_alpha_history": [],
+    "bn_alpha_history": [
+      "BLUE"
+    ],
     "use_bn_dex_price": [
       "DL",
       "ZKJ",
