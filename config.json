@@ -6,7 +6,9 @@
     "okx_alpha_big_change": [
       "OIK"
     ],
-    "bn_alpha_history": [],
+    "bn_alpha_history": [
+      "ANOME"
+    ],
     "use_bn_dex_price": [
       "DL",
       "ZKJ",
