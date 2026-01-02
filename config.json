@@ -7,7 +7,8 @@
       "OIK"
     ],
     "bn_alpha_history": [
-      "SPX"
+      "SPX",
+      "VINE"
     ],
     "use_bn_dex_price": [
       "DL",
