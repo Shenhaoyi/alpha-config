@@ -27,9 +27,6 @@
       "MERL",
       "SAROS",
       "WET",
-      "arc",
-      "GUA",
-      "IR",
       "MEW",
       "DEGEN",
       "VVV",
@@ -47,8 +44,7 @@
       "BTG"
     ],
     "order_book": [
-      "真的需要屏蔽的",
-      "M"
+      "真的需要屏蔽的"
     ],
     "original_threshold": [
       "USELESS",
