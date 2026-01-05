@@ -7,9 +7,7 @@
       "OIK",
       "VRA"
     ],
-    "bn_alpha_history": [
-      "Mog"
-    ],
+    "bn_alpha_history": [],
     "use_bn_dex_price": [
       "DL",
       "ZKJ",
@@ -31,7 +29,6 @@
       "DEGEN",
       "VVV",
       "IRYS",
-      "POWER",
       "ATH",
       "BLUE"
     ],
@@ -72,7 +69,8 @@
       "GOATED",
       "WET",
       "JOJO",
-      "CULT"
+      "CULT",
+      "POWER",
     ]
   }
 }
