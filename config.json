@@ -7,7 +7,17 @@
       "OIK",
       "VRA"
     ],
-    "bn_alpha_history": [],
+    "bn_alpha_history": [
+      "ANOME",
+      "ARTX",
+      "RTX",
+      "BEAT",
+      "RIVER",
+      "42",
+      "TIMI",
+      "UAI"
+      "ESIM"
+    ],
     "use_bn_dex_price": [
       "DL",
       "ZKJ",
