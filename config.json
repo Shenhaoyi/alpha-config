@@ -25,7 +25,8 @@
       "TTD",
       "POWER",
       "CLO",
-      "RVV"
+      "RVV",
+      "PIEVERSE"
     ],
     "use_bn_dex_price": [
       "DL",
