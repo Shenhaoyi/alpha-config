@@ -26,7 +26,8 @@
       "POWER",
       "CLO",
       "RVV",
-      "PIEVERSE"
+      "PIEVERSE",
+      "FOLKS"
     ],
     "use_bn_dex_price": [
       "DL",
