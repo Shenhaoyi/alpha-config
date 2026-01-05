@@ -18,7 +18,8 @@
       "UAI",
       "ESIM",
       "SENTIS",
-      "JCT"
+      "JCT",
+      "RLS"
     ],
     "use_bn_dex_price": [
       "DL",
