@@ -7,9 +7,7 @@
       "OIK",
       "VRA"
     ],
-    "bn_alpha_history": [
-      "TIMI"
-    ],
+    "bn_alpha_history": [],
     "use_bn_dex_price": [
       "DL",
       "ZKJ",
