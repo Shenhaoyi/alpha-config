@@ -7,9 +7,7 @@
       "OIK",
       "VRA"
     ],
-    "bn_alpha_history": [
-      "Broccoli"
-    ],
+    "bn_alpha_history": [],
     "use_bn_dex_price": [
       "DL",
       "ZKJ",
@@ -67,6 +65,7 @@
       "MTP",
       "OL",
       "TTD",
+      "MM",
       "买卖差价有点巨大的，采用原始阈值",
       "FHE",
       "GOATED",
