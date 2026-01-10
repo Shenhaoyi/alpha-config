@@ -7,9 +7,7 @@
       "OIK",
       "VRA"
     ],
-    "bn_alpha_history": [
-      "MYX"
-    ],
+    "bn_alpha_history": [],
     "use_bn_dex_price": [
       "DL",
       "ZKJ",
@@ -79,7 +77,8 @@
       "BEAT",
       "OVL",
       "Mubarakah",
-      "DN"
+      "DN",
+      "DGRAM"
     ]
   }
 }
