@@ -6,11 +6,13 @@
     "okx_alpha_big_change": [
       "OIK",
       "VRA",
-      "MM"
+      "MM",
+      "WHY"
     ],
     "bn_alpha_history": [
       "MYX",
-      "MM"
+      "MM",
+      "WHY"
     ],
     "use_bn_dex_price": [
       "DL",
