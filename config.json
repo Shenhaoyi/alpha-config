@@ -6,32 +6,23 @@
     "okx_alpha_big_change": [
       "OIK",
       "VRA",
-      "MM",
-      "WHY"
+      "MM"
     ],
     "bn_alpha_history": [
-      "MYX",
-      "MM",
-      "WHY",
-      "ALCH",
-      "ESIM",
-      "AKE"
+      "MYX"
     ],
     "use_bn_dex_price": [
       "DL",
       "ZKJ",
-      "SIGMA",
       "WBAI",
       "MYX",
       "B2",
       "BLESS",
       "XNY",
       "BAS",
-      "SQD",
       "PLAYSOLANA",
       "ANOME",
       "ZORA",
-      "MERL",
       "SAROS",
       "WET",
       "MEW",
@@ -39,7 +30,8 @@
       "VVV",
       "BLUE",
       "DN",
-      "COAI"
+      "COAI",
+      "ESIM"
     ],
     "night": [
       "MYX",
