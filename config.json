@@ -9,7 +9,9 @@
       "MM",
       "SHARDS"
     ],
-    "bn_alpha_history": [],
+    "bn_alpha_history": [
+      "VLR"
+    ],
     "use_bn_dex_price": [
       "DL",
       "ZKJ",
