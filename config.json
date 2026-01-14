@@ -10,7 +10,8 @@
       "SHARDS"
     ],
     "bn_alpha_history": [
-      "MYX"
+      "MYX",
+      "arc"
     ],
     "use_bn_dex_price": [
       "DL",
