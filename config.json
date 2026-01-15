@@ -12,10 +12,7 @@
     "bn_alpha_history": [
       "MYX",
       "ANOME",
-      "ALCH",
-      "BLUE",
-      "MAGMA",
-      "TRUTH"
+      "ALCH"
     ],
     "use_bn_dex_price": [
       "DL",
