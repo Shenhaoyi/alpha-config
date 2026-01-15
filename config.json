@@ -4,14 +4,11 @@
     "bn_alpha2": [],
     "okx_alpha": [],
     "okx_alpha_big_change": [
-      "OIK",
-      "VRA",
-      "SHARDS"
+      "VRA"
     ],
     "bn_alpha_history": [
       "MYX",
-      "ANOME",
-      "ALCH"
+      "ANOME"
     ],
     "use_bn_dex_price": [
       "DL",
@@ -34,7 +31,8 @@
       "ESIM",
       "STBL",
       "GUA",
-      "RIVER"
+      "RIVER",
+      "VINE"
     ],
     "night": [
       "MYX",
@@ -86,6 +84,7 @@
       "TALE",
       "DGC",
       "VINU",
+      "KILO",
       "买卖差价有点巨大的，采用原始阈值",
       "FHE",
       "ATH",
