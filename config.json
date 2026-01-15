@@ -42,7 +42,8 @@
       "BTG"
     ],
     "order_book": [
-      "真的需要屏蔽的"
+      "真的需要屏蔽的",
+      "雪球"
     ],
     "original_threshold": [
       "USELESS",
@@ -88,8 +89,7 @@
       "FHE",
       "ATH",
       "WHY",
-      "Sight",
-      "雪球"
+      "Sight"
     ]
   }
 }
