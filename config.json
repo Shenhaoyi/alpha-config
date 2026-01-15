@@ -6,7 +6,6 @@
     "okx_alpha_big_change": [
       "OIK",
       "VRA",
-      "MM",
       "SHARDS"
     ],
     "bn_alpha_history": [
@@ -82,6 +81,11 @@
       "M",
       "TTD",
       "POKT",
+      "ODOS",
+      "WBAI",
+      "TALE",
+      "DGC",
+      "VINU",
       "买卖差价有点巨大的，采用原始阈值",
       "FHE",
       "ATH",
