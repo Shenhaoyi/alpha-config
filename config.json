@@ -4,13 +4,11 @@
     "bn_alpha2": [],
     "okx_alpha": [],
     "okx_alpha_big_change": [
-      "VRA",
-      "雪球"
+      "VRA"
     ],
     "bn_alpha_history": [
       "MYX",
       "ANOME",
-      "雪球",
       "VVV"
     ],
     "use_bn_dex_price": [
@@ -91,8 +89,7 @@
       "FHE",
       "ATH",
       "WHY",
-      "Sight",
-      "FUN"
+      "Sight"
     ]
   }
 }
