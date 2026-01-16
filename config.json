@@ -4,12 +4,14 @@
     "bn_alpha2": [],
     "okx_alpha": [],
     "okx_alpha_big_change": [
-      "VRA"
+      "VRA",
+      "雪球"
     ],
     "bn_alpha_history": [
       "MYX",
       "ANOME",
-      "VVV"
+      "VVV",
+      "雪球"
     ],
     "use_bn_dex_price": [
       "DL",
@@ -85,7 +87,6 @@
       "DGC",
       "VINU",
       "KILO",
-      "雪球",
       "买卖差价有点巨大的，采用原始阈值",
       "FHE",
       "ATH",
