@@ -25,7 +25,8 @@
       "ZORA",
       "AERO",
       "ROLL",
-      "MERL"
+      "MERL",
+      "PROMPT"
     ],
     "use_bn_dex_price": [
       "DL",
