@@ -4,14 +4,15 @@
     "bn_alpha2": [],
     "okx_alpha": [],
     "okx_alpha_big_change": [
-      "VRA",
       "雪球"
     ],
     "bn_alpha_history": [
+      "雪球"
+    ],
+    "top_temp": [
       "MYX",
       "ANOME",
       "VVV",
-      "雪球",
       "AERO",
       "BLUE",
       "SKYAI",
@@ -101,13 +102,11 @@
       "DGC",
       "VINU",
       "KILO",
+      "Sight",
       "买卖差价有点巨大的，采用原始阈值",
       "FHE",
       "ATH",
-      "WHY",
-      "Sight",
-      "RIVER",
-      "ROLL"
+      "WHY"
     ]
   }
 }
