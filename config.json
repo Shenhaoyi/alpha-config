@@ -8,21 +8,9 @@
       "VRA"
     ],
     "bn_alpha_history": [
-      "MYX",
       "雪球",
       "ROLL",
-      "VVV",
-      "RVV",
-      "CORL",
-      "ALCH",
-      "Mog",
-      "MERL",
-      "COAI",
-      "DRIFT",
-      "SKYAI",
-      "MM",
       "GRASS",
-      "LIGHT",
       "DEGEN"
     ],
     "top_temp": [
@@ -41,7 +29,18 @@
       "AERO",
       "MERL",
       "PROMPT",
-      "THQ"
+      "THQ",
+      "VVV",
+      "RVV",
+      "MYX",
+      "CORL",
+      "ALCH",
+      "Mog",
+      "MERL",
+      "COAI",
+      "DRIFT",
+      "SKYAI",
+      "MM"
     ],
     "use_bn_dex_price": [
       "DL",
@@ -66,8 +65,7 @@
       "VINE",
       "COAI",
       "DRIFT",
-      "MERL",
-      "我踏马来了"
+      "MERL"
     ],
     "night": [
       "MYX",
@@ -123,7 +121,6 @@
       "FHE",
       "ATH",
       "WHY",
-      "RIVER",
       "AICell"
     ]
   }
