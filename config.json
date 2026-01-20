@@ -27,7 +27,8 @@
       "arc",
       "MEW",
       "ALCH",
-      "REKT"
+      "REKT",
+      "FLUID"
     ],
     "use_bn_dex_price": [
       "MYX",
