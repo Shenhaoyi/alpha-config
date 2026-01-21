@@ -17,7 +17,6 @@
     ],
     "bn_alpha_history": [
       "雪球",
-      "ROLL",
       "GRASS",
       "DEGEN",
       "ZORA",
@@ -31,11 +30,6 @@
       "FLUID"
     ],
     "use_bn_dex_price": [
-      "MYX",
-      "B2",
-      "BAS",
-      "BLESS",
-      "XNY",
       "DL",
       "ZKJ",
       "WBAI",
