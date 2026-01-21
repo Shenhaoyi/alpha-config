@@ -27,7 +27,8 @@
       "MEW",
       "ALCH",
       "REKT",
-      "FLUID"
+      "FLUID",
+      "ROLL"
     ],
     "use_bn_dex_price": [
       "DL",
