@@ -28,12 +28,7 @@
       "REKT",
       "FLUID",
       "ROLL",
-      "MYX",
-      "B2",
-      "BAS",
-      "BLESS",
-      "XNY",
-      "TROLL"
+      "MM"
     ],
     "use_bn_dex_price": [
       "DL",
@@ -50,7 +45,12 @@
       "VINE",
       "COAI",
       "DRIFT",
-      "SKYAI"
+      "SKYAI",
+      "MYX",
+      "B2",
+      "BAS",
+      "BLESS",
+      "XNY"
     ],
     "night": [
       "MYX",
