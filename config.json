@@ -29,7 +29,8 @@
       "FLUID",
       "ROLL",
       "MM",
-      "RTX"
+      "RTX",
+      "CLANKER"
     ],
     "use_bn_dex_price": [
       "DL",
