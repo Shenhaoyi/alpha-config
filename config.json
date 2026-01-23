@@ -30,7 +30,8 @@
       "ROLL",
       "MM",
       "RTX",
-      "CLANKER"
+      "CLANKER",
+      "SENTIS"
     ],
     "use_bn_dex_price": [
       "DL",
