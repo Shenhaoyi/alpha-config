@@ -15,7 +15,10 @@
       "MM",
       "KO",
       "AFT",
-      "CORL"
+      "CORL",
+      "SHARDS",
+      "ULTI",
+      "TAIKO"
     ],
     "bn_alpha_history": [
       "雪球",
@@ -115,6 +118,7 @@
       "LIGHT",
       "CAI",
       "KO",
+      "DMC",
       "买卖差价有点巨大的，采用原始阈值",
       "KOGE",
       "FHE",
