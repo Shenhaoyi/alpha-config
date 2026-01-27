@@ -41,9 +41,7 @@
       "GRIFFAIN",
       "Fartcoin",
       "ALCH",
-      "swarms",
-      "DMC",
-      "TALE"
+      "swarms"
     ],
     "use_bn_dex_price": [
       "DL",
@@ -129,8 +127,7 @@
       "FHE",
       "ATH",
       "WHY",
-      "AICell",
-      "ACU"
+      "AICell"
     ]
   }
 }
