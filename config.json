@@ -18,7 +18,8 @@
       "CORL",
       "SHARDS",
       "ULTI",
-      "TAIKO"
+      "TAIKO",
+      "RIVER"
     ],
     "bn_alpha_history": [
       "雪球",
@@ -41,7 +42,8 @@
       "GRIFFAIN",
       "Fartcoin",
       "ALCH",
-      "swarms"
+      "swarms",
+      "RIVER"
     ],
     "use_bn_dex_price": [
       "DL",
