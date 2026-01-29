@@ -33,7 +33,9 @@
       "SKR",
       "GRASS",
       "ACU",
-      "swarms"
+      "swarms",
+      "POPCAT",
+      "ZORA"
     ],
     "use_bn_dex_price": [
       "DL",
