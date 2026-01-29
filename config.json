@@ -27,7 +27,8 @@
       "MYX",
       "RIVER",
       "SPX",
-      "KO"
+      "KO",
+      "arc"
     ],
     "use_bn_dex_price": [
       "DL",
