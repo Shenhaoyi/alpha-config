@@ -48,7 +48,9 @@
       "RIVER",
       "MERL",
       "SKR",
-      "TIMI"
+      "TIMI",
+      "FLUID",
+      "SPX"
     ],
     "use_bn_dex_price": [
       "DL",
