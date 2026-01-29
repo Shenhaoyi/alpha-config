@@ -28,7 +28,8 @@
       "RIVER",
       "SPX",
       "KO",
-      "arc"
+      "arc",
+      "MEW"
     ],
     "use_bn_dex_price": [
       "DL",
