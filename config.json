@@ -50,7 +50,8 @@
       "SKR",
       "TIMI",
       "FLUID",
-      "SPX"
+      "SPX",
+      "KO"
     ],
     "use_bn_dex_price": [
       "DL",
