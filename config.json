@@ -46,7 +46,8 @@
       "jellyjelly",
       "COAI",
       "GUA",
-      "MERL"
+      "MERL",
+      "PTB"
     ],
     "use_bn_dex_price": [
       "DL",
