@@ -18,7 +18,8 @@
       "ULTI",
       "TAIKO",
       "DARK",
-      "KO"
+      "KO",
+      "ROLL"
     ],
     "bn_alpha_history": [
       "雪球",
@@ -47,7 +48,8 @@
       "COAI",
       "GUA",
       "MERL",
-      "ALCH"
+      "ALCH",
+      "ROLL"
     ],
     "use_bn_dex_price": [
       "DL",
