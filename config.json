@@ -25,14 +25,11 @@
       "DEGEN",
       "KOGE",
       "MYX",
-      "RIVER",
       "SPX",
       "KO",
       "arc",
       "MEW",
-      "SKR",
       "GRASS",
-      "ACU",
       "swarms",
       "POPCAT",
       "ZORA",
@@ -42,16 +39,21 @@
       "VINE",
       "TOKEN",
       "AVAAI",
+      "MERL",
+      "ALCH",
+      "SKYAI",
+      "FLUID"
+    ],
+    "temp": [
       "jellyjelly",
       "COAI",
       "GUA",
-      "MERL",
-      "ALCH",
+      "ACU",
       "CYS",
-      "SKYAI",
-      "FLUID",
       "BIRB",
-      "TOWN"
+      "TOWN",
+      "SKR",
+      "RIVER"
     ],
     "use_bn_dex_price": [
       "DL",
@@ -133,8 +135,7 @@
       "ATH",
       "WHY",
       "AICell",
-      "FLUID",
-      "PTB"
+      "FLUID"
     ]
   }
 }
