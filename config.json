@@ -51,7 +51,8 @@
       "ALCH",
       "ROLL",
       "DRIFT",
-      "CYS"
+      "CYS",
+      "SKYAI"
     ],
     "use_bn_dex_price": [
       "DL",
