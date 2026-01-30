@@ -18,8 +18,7 @@
       "ULTI",
       "TAIKO",
       "DARK",
-      "KO",
-      "ROLL"
+      "KO"
     ],
     "bn_alpha_history": [
       "雪球",
@@ -49,10 +48,9 @@
       "GUA",
       "MERL",
       "ALCH",
-      "ROLL",
-      "DRIFT",
       "CYS",
-      "SKYAI"
+      "SKYAI",
+      "FLUID"
     ],
     "use_bn_dex_price": [
       "DL",
@@ -135,8 +133,7 @@
       "WHY",
       "AICell",
       "FLUID",
-      "PTB",
-      "ROLL"
+      "PTB"
     ]
   }
 }
