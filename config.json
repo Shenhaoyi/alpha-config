@@ -50,7 +50,8 @@
       "MERL",
       "ALCH",
       "ROLL",
-      "DRIFT"
+      "DRIFT",
+      "CYS"
     ],
     "use_bn_dex_price": [
       "DL",
