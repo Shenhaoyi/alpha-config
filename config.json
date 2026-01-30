@@ -52,7 +52,8 @@
       "FLUID",
       "BIRB",
       "BEAT",
-      "STABLE"
+      "STABLE",
+      "RWA"
     ],
     "use_bn_dex_price": [
       "DL",
