@@ -50,7 +50,9 @@
       "CYS",
       "SKYAI",
       "FLUID",
-      "BIRB"
+      "BIRB",
+      "BEAT",
+      "STABLE"
     ],
     "use_bn_dex_price": [
       "DL",
