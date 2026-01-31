@@ -18,7 +18,8 @@
       "ULTI",
       "TAIKO",
       "DARK",
-      "KO"
+      "KO",
+      "TAKER"
     ],
     "bn_alpha_history": [
       "雪球",
@@ -41,7 +42,8 @@
       "MERL",
       "ALCH",
       "SKYAI",
-      "FLUID"
+      "FLUID",
+      "TAKER"
     ],
     "temp": [
       "jellyjelly",
