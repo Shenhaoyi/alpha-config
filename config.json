@@ -27,7 +27,8 @@
       "AICell",
       "SKYAI",
       "KO",
-      "GRASS"
+      "GRASS",
+      "FLUID"
     ],
     "temp": [
       "jellyjelly",
