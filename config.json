@@ -58,7 +58,13 @@
       "ALCH",
       "SKYAI"
     ],
-    "use_bn_dex_price": [
+    "use_bn_dex_price": [],
+    "night": [
+      "MYX",
+      "B2",
+      "BAS",
+      "BLESS",
+      "XNY",
       "DL",
       "ZKJ",
       "WBAI",
@@ -67,23 +73,11 @@
       "SAROS",
       "WET",
       "DEGEN",
-      "MYX",
-      "B2",
-      "BAS",
-      "BLESS",
-      "XNY",
       "STBL",
       "VINE",
       "COAI",
       "SKYAI",
       "GUA"
-    ],
-    "night": [
-      "MYX",
-      "B2",
-      "BAS",
-      "BLESS",
-      "XNY"
     ],
     "order_book": [
       "真的需要屏蔽的"
