@@ -21,19 +21,7 @@
       "TAKER",
       "U"
     ],
-    "bn_alpha_history": [
-      "雪球",
-      "KOGE",
-      "AICell",
-      "SKYAI",
-      "GRASS",
-      "FLUID",
-      "DEGEN",
-      "LISA",
-      "BOT",
-      "KO",
-      "VINE"
-    ],
+    "bn_alpha_history": [],
     "temp": [
       "jellyjelly",
       "COAI",
@@ -65,7 +53,19 @@
       "TOKEN",
       "AVAAI",
       "MERL",
-      "ALCH"
+      "ALCH",
+      "--",
+      "雪球",
+      "KOGE",
+      "AICell",
+      "SKYAI",
+      "GRASS",
+      "FLUID",
+      "DEGEN",
+      "LISA",
+      "BOT",
+      "KO",
+      "VINE"
     ],
     "use_bn_dex_price": [],
     "night": [
