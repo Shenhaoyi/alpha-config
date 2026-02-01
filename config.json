@@ -21,7 +21,9 @@
       "TAKER",
       "U"
     ],
-    "bn_alpha_history": [],
+    "bn_alpha_history": [
+      "LISA"
+    ],
     "temp": [
       "jellyjelly",
       "COAI",
@@ -62,7 +64,6 @@
       "GRASS",
       "FLUID",
       "DEGEN",
-      "LISA",
       "BOT",
       "KO",
       "VINE"
