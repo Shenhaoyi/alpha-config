@@ -39,13 +39,7 @@
       "AVAAI",
       "MERL",
       "ALCH",
-      "SKYAI",
-      "FLUID",
-      "$PAAL",
-      "TANSSI",
-      "BITCOIN",
-      "ATH",
-      "PROMPT"
+      "SKYAI"
     ],
     "temp": [
       "jellyjelly",
@@ -56,7 +50,13 @@
       "BIRB",
       "TOWN",
       "SKR",
-      "RIVER"
+      "RIVER",
+      "FLUID",
+      "$PAAL",
+      "TANSSI",
+      "BITCOIN",
+      "ATH",
+      "PROMPT"
     ],
     "use_bn_dex_price": [
       "DL",
