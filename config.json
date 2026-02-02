@@ -23,7 +23,6 @@
       "SOON"
     ],
     "bn_alpha_history": [
-      "LISA",
       "SKYAI",
       "arc",
       "雪球",
@@ -37,11 +36,8 @@
       "DEGEN",
       "Mog",
       "SPX",
-      "TAKE",
-      "KO",
       "VINE",
       "WET",
-      "BTG",
       "TOKEN",
       "ALCH"
     ],
@@ -65,7 +61,6 @@
       "SPX",
       "arc",
       "MEW",
-      "GRASS",
       "swarms",
       "POPCAT",
       "ZORA",
@@ -81,13 +76,11 @@
       "KOGE",
       "AICell",
       "GRASS",
-      "FLUID",
       "DEGEN",
-      "BOT",
-      "KO",
       "VINE"
     ],
     "use_bn_dex_price": [
+      "BTG",
       "MYX",
       "B2",
       "BAS",
@@ -169,8 +162,7 @@
       "AICell",
       "FLUID",
       "TANSSI",
-      "SPX",
-      "BULLA"
+      "SPX"
     ]
   }
 }
