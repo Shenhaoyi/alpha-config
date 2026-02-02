@@ -38,12 +38,9 @@
       "Mog",
       "SPX",
       "VINE",
-      "WET",
       "TOKEN",
       "ALCH",
-      "KO",
-      "P",
-      "RLS"
+      "KO"
     ],
     "temp": [
       "jellyjelly",
@@ -167,8 +164,7 @@
       "FLUID",
       "TANSSI",
       "SPX",
-      "BULLA",
-      "AVAAI"
+      "BULLA"
     ]
   }
 }
