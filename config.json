@@ -24,9 +24,9 @@
       "YALA"
     ],
     "bn_alpha_history": [
-      "SKYAI",
-      "arc",
-      "雪球",
+      "雪球"
+    ],
+    "temp": [
       "FLUID",
       "$PAAL",
       "TANSSI",
@@ -34,51 +34,8 @@
       "ATH",
       "CPOOL",
       "PROMPT",
-      "DEGEN",
       "Mog",
-      "SPX",
-      "VINE",
-      "TOKEN",
-      "ALCH",
-      "KO"
-    ],
-    "temp": [
-      "jellyjelly",
-      "COAI",
-      "GUA",
-      "ACU",
-      "CYS",
-      "BIRB",
-      "TOWN",
-      "SKR",
-      "RIVER",
-      "FLUID",
-      "$PAAL",
-      "TANSSI",
-      "BITCOIN",
-      "ATH",
-      "PROMPT",
-      "DEGEN",
-      "SPX",
-      "arc",
-      "MEW",
-      "swarms",
-      "POPCAT",
-      "ZORA",
-      "Fartcoin",
-      "BLUE",
-      "MOODENG",
-      "VINE",
-      "TOKEN",
-      "AVAAI",
-      "MERL",
-      "ALCH",
-      "--",
-      "KOGE",
-      "AICell",
-      "GRASS",
-      "DEGEN",
-      "VINE"
+      "SPX"
     ],
     "use_bn_dex_price": [
       "BTG",
@@ -93,20 +50,7 @@
       "B2",
       "BAS",
       "BLESS",
-      "XNY",
-      "DL",
-      "ZKJ",
-      "WBAI",
-      "PLAYSOLANA",
-      "ANOME",
-      "SAROS",
-      "WET",
-      "DEGEN",
-      "STBL",
-      "VINE",
-      "COAI",
-      "SKYAI",
-      "GUA"
+      "XNY"
     ],
     "order_book": [
       "真的需要屏蔽的"
@@ -163,8 +107,7 @@
       "AICell",
       "FLUID",
       "TANSSI",
-      "SPX",
-      "BULLA"
+      "SPX"
     ]
   }
 }
