@@ -10,7 +10,6 @@
       "OIK",
       "ZEUS",
       "NAORIS",
-      "雪球",
       "VRA",
       "AFT",
       "CORL",
@@ -24,7 +23,6 @@
       "YALA"
     ],
     "bn_alpha_history": [
-      "雪球"
     ],
     "temp": [
       "FLUID",
@@ -103,6 +101,7 @@
       "MIRROR",
       "BLUAI",
       "BOT",
+      "雪球",
       "买卖差价有点巨大的，采用原始阈值",
       "KOGE",
       "FHE",
