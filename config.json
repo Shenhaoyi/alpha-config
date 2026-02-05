@@ -39,12 +39,7 @@
       "SPX"
     ],
     "use_bn_dex_price": [
-      "BTG",
-      "MYX",
-      "B2",
-      "BAS",
-      "BLESS",
-      "XNY"
+      "BTG"
     ],
     "night": [
       "MYX",
