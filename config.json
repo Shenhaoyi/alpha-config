@@ -20,7 +20,6 @@
       "SUBHUB",
       "LISA",
       "TTD",
-      "ZEUS",
       "AFT",
       "SPA",
       "U",
@@ -134,7 +133,8 @@
       "AICell",
       "FLUID",
       "TANSSI",
-      "SPX"
+      "SPX",
+      "SUP"
     ]
   }
 }
