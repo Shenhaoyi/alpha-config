@@ -34,7 +34,9 @@
       "NB",
       "XTER",
       "POP",
-      "MILK"
+      "MILK",
+      "--流动性太差-",
+      "KO"
     ],
     "bn_alpha_history": [
       "KOGE",
@@ -53,7 +55,13 @@
       "SPX"
     ],
     "use_bn_dex_price": [
-      "BTG"
+      "BTG",
+      "MYX",
+      "B2",
+      "BAS",
+      "BLESS",
+      "XNY",
+      "KO"
     ],
     "night": [
       "MYX",
