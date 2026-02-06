@@ -51,11 +51,7 @@
       "CPOOL",
       "PROMPT",
       "Mog",
-      "SPX",
-      "VINE",
-      "ALCH",
-      "arc",
-      "MEW"
+      "SPX"
     ],
     "temp": [
       "FLUID",
@@ -66,11 +62,21 @@
       "CPOOL",
       "PROMPT",
       "Mog",
-      "SPX"
+      "SPX",
+      "--",
+      "VINE",
+      "ALCH",
+      "arc",
+      "MEW"
     ],
     "use_bn_dex_price": [
       "BTG",
-      "KO"
+      "KO",
+      "MYX",
+      "B2",
+      "BAS",
+      "BLESS",
+      "XNY"
     ],
     "night": [
       "MYX",
@@ -131,6 +137,7 @@
       "BLUAI",
       "BOT",
       "雪球",
+      "SUP",
       "买卖差价有点巨大的，采用原始阈值",
       "KOGE",
       "FHE",
@@ -139,9 +146,7 @@
       "AICell",
       "FLUID",
       "TANSSI",
-      "SPX",
-      "SUP",
-      "RNBW"
+      "SPX"
     ]
   }
 }
