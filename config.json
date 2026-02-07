@@ -4,6 +4,9 @@
     "chain": [
       "按链屏蔽"
     ],
+    "skip_quote": [
+      "NFT"
+    ],
     "bn_alpha2": [],
     "okx_alpha": [],
     "okx_alpha_big_change": [
