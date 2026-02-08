@@ -2,7 +2,7 @@
   "code": 0,
   "data": {
     "chain": [
-      "按链屏蔽: Ethereum/Base/Arbitrum/Sonic/TRON/Sui",
+      "按链屏蔽: Ethereum/Base/Arbitrum/Sonic/TRON/Sui"
     ],
     "skip_quote": [
       "NFT",
