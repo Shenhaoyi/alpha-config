@@ -47,8 +47,7 @@
     ],
     "bn_alpha_history": [
       "KOGE",
-      "DEGEN",
-      "RVV"
+      "DEGEN"
     ],
     "temp": [
       "FLUID",
@@ -69,12 +68,7 @@
     "use_bn_dex_price": [
       "BTG",
       "KO",
-      "WET",
-      "MYX",
-      "B2",
-      "BAS",
-      "BLESS",
-      "XNY"
+      "WET"
     ],
     "night": [
       "MYX",
