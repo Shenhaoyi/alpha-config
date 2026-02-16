@@ -65,7 +65,12 @@
     ],
     "use_bn_dex_price": [
       "BTG",
-      "WET"
+      "WET",
+      "MYX",
+      "B2",
+      "BAS",
+      "BLESS",
+      "XNY"
     ],
     "night": [
       "MYX",
