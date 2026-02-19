@@ -68,7 +68,12 @@
     "use_bn_dex_price": [
       "BTG",
       "WET",
-      "SAROS"
+      "SAROS",
+      "MYX",
+      "B2",
+      "BAS",
+      "BLESS",
+      "XNY"
     ],
     "night": [
       "MYX",
@@ -139,6 +144,7 @@
       "买卖差价有点巨大的，采用原始阈值",
       "KOGE",
       "PUMPBTC",
+      "USELESS",
       "ATH",
       "FHE",
       "AICell",
