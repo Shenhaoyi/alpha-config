@@ -44,7 +44,9 @@
       "KO"
     ],
     "bn_alpha_history": [
-      "KOGE"
+      "KOGE",
+      "SIREN",
+      "BULLA"
     ],
     "temp": [
       "FLUID",
@@ -81,8 +83,7 @@
       "XNY"
     ],
     "order_book": [
-      "真的需要屏蔽的",
-      "POWER"
+      "真的需要屏蔽的"
     ],
     "original_threshold": [
       "Ghibli",
