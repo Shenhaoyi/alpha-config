@@ -59,10 +59,17 @@
       "--流动性太差-"
     ],
     "bn_alpha_history": [
-      "KOGE"
+      "KOGE",
+      "WARD"
     ],
     "temp": [],
-    "use_bn_dex_price": [],
+    "use_bn_dex_price": [
+      "MYX",
+      "B2",
+      "BAS",
+      "BLESS",
+      "XNY"
+    ],
     "night": [
       "MYX",
       "B2",
