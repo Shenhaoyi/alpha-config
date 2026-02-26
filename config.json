@@ -64,7 +64,12 @@
     ],
     "temp": [],
     "use_bn_dex_price": [
-      "SKYAI"
+      "SKYAI",
+      "MYX",
+      "B2",
+      "BAS",
+      "BLESS",
+      "XNY"
     ],
     "night": [
       "MYX",
