@@ -60,8 +60,7 @@
       "--流动性太差-"
     ],
     "bn_alpha_history": [
-      "KOGE",
-      "WARD"
+      "KOGE"
     ],
     "temp": [],
     "use_bn_dex_price": [
@@ -78,37 +77,37 @@
       "真的需要屏蔽的"
     ],
     "original_threshold": [
-      "ARIAIP",
-      "RLS",
       "MIRROR",
-      "Janitor",
-      "SSS",
+      "BOT",
+      "RLS",
       "SUP",
+      "Janitor",
+      "TALE",
       "MTP",
       "SWTCH",
       "TAT",
-      "XLAB",
       "BNBXBT",
       "BOOM",
+      "Anon",
       "AICell",
-      "VELVET",
       "ROAM",
       "TOWN",
-      "MM",
-      "BUBB",
-      "Ghibli",
       "GAIN",
+      "BUBB",
+      "RICE",
+      "Ghibli",
       "BNB Card",
-      "BEE",
-      "TANSSI",
+      "MM",
       "KILO",
+      "TANSSI",
+      "BEE",
       "LONG",
-      "Anon",
-      "DGRAM",
+      "XLAB",
       "OVL",
       "CORL",
-      "PIPE",
-      "CAI",
+      "CYPR",
+      "SHADOW",
+      "POKT",
       "买卖差价有点巨大的，采用原始阈值"
     ]
   }
