@@ -66,7 +66,13 @@
       "KOGE"
     ],
     "temp": [],
-    "use_bn_dex_price": [],
+    "use_bn_dex_price": [
+      "MYX",
+      "B2",
+      "BAS",
+      "BLESS",
+      "XNY"
+    ],
     "night": [
       "MYX",
       "B2",
