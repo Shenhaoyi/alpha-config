@@ -63,13 +63,7 @@
       "KOGE"
     ],
     "temp": [],
-    "use_bn_dex_price": [
-      "MYX",
-      "B2",
-      "BAS",
-      "BLESS",
-      "XNY"
-    ],
+    "use_bn_dex_price": [],
     "night": [],
     "order_book": [
       "真的需要屏蔽的"
