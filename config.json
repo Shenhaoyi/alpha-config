@@ -69,7 +69,12 @@
     ],
     "temp": [],
     "use_bn_dex_price": [
-      "BTX"
+      "BTX",
+      "MYX",
+      "B2",
+      "BAS",
+      "BLESS",
+      "XNY"
     ],
     "night": [
       "MYX",
