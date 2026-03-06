@@ -61,19 +61,14 @@
       "VINU",
       "RCADE",
       "COA",
+      "PINGPONG",
       "--流动性太差-"
     ],
     "bn_alpha_history": [
       "KOGE"
     ],
     "temp": [],
-    "use_bn_dex_price": [
-      "MYX",
-      "B2",
-      "BAS",
-      "BLESS",
-      "XNY"
-    ],
+    "use_bn_dex_price": [],
     "night": [
       "MYX",
       "B2",
