@@ -114,7 +114,8 @@
       "SOON",
       "ATH",
       "TAKER",
-      "FLUID"
+      "FLUID",
+      "PROMPT"
     ]
   }
 }
