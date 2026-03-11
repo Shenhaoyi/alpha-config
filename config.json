@@ -5,7 +5,8 @@
       "按链屏蔽: Ethereum/Base/Arbitrum/Sonic/TRON/Sui"
     ],
     "skip_quote": [
-      "PePe"
+      "PePe",
+      "CRCLon"
     ],
     "bn_alpha2": [],
     "okx_alpha": [],
