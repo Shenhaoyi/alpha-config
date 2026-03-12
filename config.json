@@ -115,7 +115,8 @@
       "ATH",
       "TAKER",
       "FLUID",
-      "PROMPT"
+      "PROMPT",
+      "CPOOL"
     ]
   }
 }
