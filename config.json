@@ -108,7 +108,8 @@
       "TAKER",
       "FLUID",
       "PROMPT",
-      "CPOOL"
+      "CPOOL",
+      "CFG"
     ]
   }
 }
