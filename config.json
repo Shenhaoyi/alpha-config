@@ -6,10 +6,7 @@
       "pippin": 0.7
     },
     "quote_amount": {
-      "NFT": 5000,
-      "Fartcoin": 500,
-      "SKYAI": 500,
-      "pippin": 500
+      "NFT": 5000
     },
     "chain": [
       "按链屏蔽: Ethereum/Base/Arbitrum/Sonic/TRON/Sui"
