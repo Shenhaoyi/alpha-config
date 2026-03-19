@@ -1,6 +1,10 @@
 {
   "code": 0,
   "data": {
+    "threshold": {
+      "NFT": 0.8,
+      "pippin": 0.7
+    },
     "chain": [
       "按链屏蔽: Ethereum/Base/Arbitrum/Sonic/TRON/Sui"
     ],
