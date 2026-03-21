@@ -2,7 +2,7 @@
   "code": 0,
   "data": {
     "threshold": {
-      "NFT": 0.8,
+      "NFT": 0.5,
       "pippin": 0.7
     },
     "quote_amount": {
