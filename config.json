@@ -2,11 +2,11 @@
   "code": 0,
   "data": {
     "threshold": {
-      "NFT": 0.6,
+      "NFT": 0.5,
       "pippin": 0.6
     },
     "quote_amount": {
-      "NFT": 3000
+      "NFT": 5000
     },
     "chain": [
       "按链屏蔽: Ethereum/Base/Arbitrum/Sonic/TRON/Sui"
