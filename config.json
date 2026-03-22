@@ -6,7 +6,7 @@
       "pippin": 0.6
     },
     "quote_amount": {
-      "NFT": 5000
+      "NFT": 7000
     },
     "chain": [
       "按链屏蔽: Ethereum/Base/Arbitrum/Sonic/TRON/Sui"
@@ -78,7 +78,8 @@
     "bn_alpha_history": [
       "KOGE",
       "SKYAI",
-      "BR"
+      "BR",
+      "SIREN"
     ],
     "temp": [],
     "use_bn_dex_price": [
