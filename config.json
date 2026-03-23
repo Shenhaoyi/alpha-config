@@ -6,7 +6,7 @@
       "pippin": 0.6
     },
     "quote_amount": {
-      "NFT": 7000
+      "NFT": 5000
     },
     "chain": [
       "按链屏蔽: Ethereum/Base/Arbitrum/Sonic/TRON/Sui"
@@ -77,8 +77,7 @@
     ],
     "bn_alpha_history": [
       "KOGE",
-      "SKYAI",
-      "BR"
+      "SKYAI"
     ],
     "temp": [],
     "use_bn_dex_price": [
@@ -121,14 +120,14 @@
       "FLY",
       "VELVET",
       "REKT",
+      "TALE",
       "买卖差价有点巨大的，采用原始阈值",
       "ARIAIP",
       "SOON",
       "ATH",
       "FLUID",
       "PROMPT",
-      "CPOOL",
-      "Freedom of Money"
+      "CPOOL"
     ]
   }
 }
