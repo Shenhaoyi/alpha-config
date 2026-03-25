@@ -2,7 +2,7 @@
   "code": 0,
   "data": {
     "threshold": {
-      "NFT": 0.7,
+      "NFT": 0.6,
       "pippin": 0.6
     },
     "quote_amount": {
@@ -69,14 +69,9 @@
       "BDXN",
       "SOON",
       "老是单边归零",
-      "MGP",
-      "SKYAI"
+      "MGP"
     ],
-    "bn_alpha_history": [
-      "KOGE",
-      "SKYAI",
-      "GAIB"
-    ],
+    "bn_alpha_history": [],
     "temp": [],
     "use_bn_dex_price": [
       "CRCLon",
