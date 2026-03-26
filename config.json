@@ -67,7 +67,9 @@
       "老是单边归零",
       "MGP"
     ],
-    "bn_alpha_history": [],
+    "bn_alpha_history": [
+      "FOLKS"
+    ],
     "temp": [],
     "use_bn_dex_price": [
       "CRCLon",
