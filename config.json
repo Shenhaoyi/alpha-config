@@ -4,7 +4,8 @@
     "threshold": {
       "NFT": 0.6,
       "pippin": 0.8,
-      "ON": 0.5
+      "ON": 0.5,
+      "APR": 0.8
     },
     "quote_amount": {
       "NFT": 5000
