@@ -15,7 +15,7 @@
     "chain": [
       "按链屏蔽: Ethereum/Base/Arbitrum/Sonic/TRON/Sui",
       "Ethereum",
-      "BASE"
+      "Base"
     ],
     "skip_quote": [
       "PePe",
