@@ -6,8 +6,7 @@
       "pippin": 0.8,
       "ON": 1,
       "APR": 0.8,
-      "CRCLon": 0.5,
-      "DMC": 4
+      "CRCLon": 0.5
     },
     "quote_amount": {
       "NFT": 6000
@@ -74,7 +73,9 @@
       "老是单边归零",
       "MGP"
     ],
-    "bn_alpha_history": [],
+    "bn_alpha_history": [
+      "DMC"
+    ],
     "temp": [],
     "use_bn_dex_price": [
       "CRCLon",
