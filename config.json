@@ -9,7 +9,7 @@
       "CRCLon": 0.5
     },
     "quote_amount": {
-      "NFT": 10000
+      "NFT": 8000
     },
     "chain": [
       "按链屏蔽: Ethereum/Base/Arbitrum/Sonic/TRON/Sui"
@@ -72,7 +72,9 @@
       "老是单边归零",
       "MGP"
     ],
-    "bn_alpha_history": [],
+    "bn_alpha_history": [
+      "SKR"
+    ],
     "temp": [],
     "use_bn_dex_price": [
       "CRCLon",
