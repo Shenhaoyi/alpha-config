@@ -3,13 +3,13 @@
   "data": {
     "threshold": {
       "NFT": 0.7,
-      "pippin": 0.8,
+      "pippin": 1,
       "ON": 1,
       "APR": 0.8,
       "CRCLon": 0.5
     },
     "quote_amount": {
-      "NFT": 8000
+      "NFT": 10000
     },
     "chain": [
       "按链屏蔽: Ethereum/Base/Arbitrum/Sonic/TRON/Sui"
