@@ -6,7 +6,8 @@
       "pippin": 1,
       "ON": 1,
       "APR": 0.8,
-      "CRCLon": 0.5
+      "CRCLon": 0.5,
+      "VVV": 1
     },
     "quote_amount": {
       "NFT": 10000
