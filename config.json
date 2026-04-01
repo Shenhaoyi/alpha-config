@@ -75,13 +75,17 @@
     ],
     "bn_alpha_history": [
       "INX",
-      "GUA",
-      "DRIFT"
+      "GUA"
     ],
     "temp": [],
     "use_bn_dex_price": [
       "CRCLon",
-      "=="
+      "==",
+      "MYX",
+      "B2",
+      "BAS",
+      "BLESS",
+      "XNY"
     ],
     "night": [
       "MYX",
@@ -125,6 +129,7 @@
       "Mubarakah",
       "PHY",
       "Ghibli",
+      "DRIFT",
       "买卖差价有点巨大的，采用原始阈值",
       "ARIAIP",
       "SOON",
