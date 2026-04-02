@@ -2,13 +2,13 @@
   "code": 0,
   "data": {
     "threshold": {
-      "NFT": 0.7,
-      "pippin": 1,
+      "NFT": 0.6,
+      "pippin": 0.8,
       "ON": 1,
-      "VVV": 1
+      "VVV": 0.7
     },
     "quote_amount": {
-      "NFT": 8000
+      "NFT": 7000
     },
     "chain": [
       "按链屏蔽: Ethereum/Base/Arbitrum/Sonic/TRON/Sui"
@@ -70,23 +70,15 @@
       "SOON",
       "老是单边归零",
       "MGP",
-      "INX",
-      "GUA"
+      "INX"
     ],
     "bn_alpha_history": [
-      "INX",
-      "GUA",
-      "DRIFT"
+      "INX"
     ],
     "temp": [],
     "use_bn_dex_price": [
       "CRCLon",
-      "==",
-      "MYX",
-      "B2",
-      "BAS",
-      "BLESS",
-      "XNY"
+      "=="
     ],
     "night": [
       "MYX",
@@ -99,38 +91,40 @@
       "真的需要屏蔽的"
     ],
     "original_threshold": [
-      "COMMON",
       "Janitor",
-      "SN3",
-      "GAIN",
-      "BAY",
-      "SWTCH",
-      "BUBB",
+      "POKT",
       "CYPR",
+      "BAY",
+      "BUBB",
+      "MM",
       "XLAB",
-      "OWL",
-      "TOWN",
+      "SWTCH",
+      "Anon",
       "AICell",
+      "TOWN",
       "Ghibli",
       "X",
-      "VOOI",
-      "SHADOW",
-      "MM",
-      "SAROS",
+      "R2",
       "TTD",
+      "SN3",
+      "SAROS",
+      "SHADOW",
+      "VOOI",
       "BR",
       "KILO",
-      "AIOT",
-      "AKE",
       "CAI",
+      "AKE",
       "REKT",
-      "MAT",
       "BNBXBT",
-      "1",
+      "DMC",
+      "AIOT",
+      "PTB",
       "Mubarakah",
+      "MAT",
       "PHY",
+      "TALE",
       "Ghibli",
-      "DRIFT",
+      "哭哭马",
       "买卖差价有点巨大的，采用原始阈值",
       "ARIAIP",
       "SOON",
