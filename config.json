@@ -8,7 +8,8 @@
       "VVV": 0.6
     },
     "quote_amount": {
-      "NFT": 10000
+      "NFT": 10000,
+      "GUA": 100
     },
     "chain": [
       "按链屏蔽: Ethereum/Base/Arbitrum/Sonic/TRON/Sui"
@@ -69,18 +70,11 @@
       "INX",
       "FOLKS"
     ],
-    "bn_alpha_history": [
-      "GUA"
-    ],
+    "bn_alpha_history": [],
     "temp": [],
     "use_bn_dex_price": [
       "CRCLon",
-      "==",
-      "MYX",
-      "B2",
-      "BAS",
-      "BLESS",
-      "XNY"
+      "=="
     ],
     "night": [
       "MYX",
@@ -96,33 +90,35 @@
     "original_threshold": [
       "POKT",
       "CYPR",
-      "BAY",
+      "GUA",
       "GAIN",
+      "BAY",
       "BUBB",
-      "RLS",
+      "SHADOW",
       "AICell",
-      "CAI",
       "Anon",
       "MM",
-      "SHADOW",
       "TOWN",
       "Ghibli",
-      "SWTCH",
-      "OWL",
-      "TTD",
+      "CAI",
       "VOOI",
-      "SAROS",
+      "OWL",
+      "X",
       "KILO",
-      "TALE",
+      "SAROS",
+      "RLS",
+      "SWTCH",
+      "TTD",
+      "SN3",
       "1",
-      "PHY",
+      "TALE",
       "REKT",
       "Mubarakah",
-      "GUA",
-      "DOYR",
       "R2",
-      "SN3",
-      "哭哭马",
+      "PHY",
+      "AKE",
+      "RICE",
+      "Ghibli",
       "买卖差价有点巨大的，采用原始阈值",
       "ARIAIP",
       "SOON",
