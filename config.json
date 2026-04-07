@@ -68,7 +68,9 @@
       "MGP",
       "INX"
     ],
-    "bn_alpha_history": [],
+    "bn_alpha_history": [
+      "GAIB"
+    ],
     "temp": [],
     "use_bn_dex_price": [
       "CRCLon",
