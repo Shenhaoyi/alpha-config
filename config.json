@@ -72,7 +72,12 @@
     "temp": [],
     "use_bn_dex_price": [
       "CRCLon",
-      "=="
+      "==",
+      "MYX",
+      "B2",
+      "BAS",
+      "BLESS",
+      "XNY"
     ],
     "night": [
       "MYX",
