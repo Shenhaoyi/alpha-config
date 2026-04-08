@@ -6,8 +6,6 @@
       "pippin": 0.6,
       "VVV": 0.8,
       "UP": 2.5,
-      "K": 4,
-      "GM": 9,
       "KOGE": 4
     },
     "quote_amount": {
@@ -75,7 +73,6 @@
     "temp": [],
     "use_bn_dex_price": [
       "CRCLon",
-      "GM",
       "=="
     ],
     "night": [
@@ -116,7 +113,6 @@
       "AKE",
       "设置了自定义阈值的",
       "K",
-      "GM",
       "UP",
       "KOGE",
       "买卖差价有点巨大的，采用原始阈值",
