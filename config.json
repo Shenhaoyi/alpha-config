@@ -6,7 +6,8 @@
       "pippin": 0.6,
       "VVV": 0.7,
       "UP": 2,
-      "K": 4
+      "K": 4,
+      "GM": 5
     },
     "quote_amount": {
       "NFT": 10000,
@@ -17,7 +18,8 @@
     ],
     "skip_quote": [
       "PePe",
-      "CRCLon"
+      "CRCLon",
+      "GM"
     ],
     "bn_alpha2": [],
     "okx_alpha": [],
@@ -67,7 +69,8 @@
       "BDXN",
       "SOON",
       "老是单边归零",
-      "MGP"
+      "MGP",
+      "GM"
     ],
     "bn_alpha_history": [
       "GAIB",
@@ -76,6 +79,7 @@
     "temp": [],
     "use_bn_dex_price": [
       "CRCLon",
+      "GM",
       "==",
       "MYX",
       "B2",
