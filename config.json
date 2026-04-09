@@ -16,8 +16,7 @@
     ],
     "skip_quote": [
       "PePe",
-      "CRCLon",
-      "CHECK"
+      "CRCLon"
     ],
     "bn_alpha2": [],
     "okx_alpha": [],
@@ -65,19 +64,11 @@
       "老是单边归零",
       "MGP"
     ],
-    "bn_alpha_history": [
-      "BOS"
-    ],
+    "bn_alpha_history": [],
     "temp": [],
     "use_bn_dex_price": [
       "CRCLon",
-      "==",
-      "MYX",
-      "B2",
-      "BAS",
-      "BLESS",
-      "XNY",
-      "CHECK"
+      "=="
     ],
     "night": [
       "MYX",
@@ -87,9 +78,7 @@
       "XNY"
     ],
     "order_book": [
-      "真的需要屏蔽的",
-      "BOOM",
-      "K"
+      "真的需要屏蔽的"
     ],
     "original_threshold": [
       "Anon",
