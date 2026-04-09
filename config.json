@@ -6,8 +6,7 @@
       "pippin": 0.6,
       "VVV": 0.8,
       "UP": 2.5,
-      "KOGE": 4,
-      "BOOM": 4
+      "KOGE": 4
     },
     "quote_amount": {
       "NFT": 10000
@@ -17,7 +16,8 @@
     ],
     "skip_quote": [
       "PePe",
-      "CRCLon"
+      "CRCLon",
+      "CHECK"
     ],
     "bn_alpha2": [],
     "okx_alpha": [],
@@ -77,7 +77,8 @@
       "B2",
       "BAS",
       "BLESS",
-      "XNY"
+      "XNY",
+      "CHECK"
     ],
     "night": [
       "MYX",
