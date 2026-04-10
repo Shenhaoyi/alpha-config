@@ -6,7 +6,8 @@
       "pippin": 0.6,
       "VVV": 0.8,
       "KOGE": 4,
-      "CHECK": 4
+      "CHECK": 4,
+      "BAS"
     },
     "quote_amount": {
       "NFT": 10000
@@ -69,12 +70,7 @@
     "temp": [],
     "use_bn_dex_price": [
       "CRCLon",
-      "==",
-      "MYX",
-      "B2",
-      "BAS",
-      "BLESS",
-      "XNY"
+      "=="
     ],
     "night": [
       "MYX",
@@ -123,6 +119,7 @@
       "UP",
       "TRADOOR",
       "BULLA",
+      "BAS",
       "买卖差价有点巨大的，采用原始阈值",
       "ARIAIP",
       "SOON",
