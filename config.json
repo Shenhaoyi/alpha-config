@@ -6,8 +6,7 @@
       "pippin": 0.6,
       "VVV": 0.8,
       "KOGE": 4,
-      "CHECK": 4,
-      "BAS"
+      "CHECK": 4
     },
     "quote_amount": {
       "NFT": 10000
@@ -117,7 +116,6 @@
       "KOGE",
       "CHECK",
       "UP",
-      "TRADOOR",
       "BULLA",
       "BAS",
       "买卖差价有点巨大的，采用原始阈值",
