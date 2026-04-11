@@ -13,7 +13,8 @@
       "CROSS": 2
     },
     "quote_amount": {
-      "NFT": 10000
+      "NFT": 10000,
+      "GUA": 3000
     },
     "chain": [
       "按链屏蔽: Ethereum/Base/Arbitrum/Sonic/TRON/Sui"
