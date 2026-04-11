@@ -8,7 +8,6 @@
       "KOGE": 4,
       "CHECK": 4,
       "Freedom of Money": 2,
-      "BULLA": 4,
       "R2": 4,
       "CROSS": 4
     },
@@ -120,6 +119,7 @@
       "CHECK",
       "Freedom of Money",
       "BULLA",
+      "MAGMA",
       "买卖差价有点巨大的，采用原始阈值",
       "ARIAIP",
       "SOON",
