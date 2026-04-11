@@ -7,7 +7,7 @@
       "VVV": 0.8,
       "KOGE": 4,
       "CHECK": 4,
-      "UP": 4
+      "Freedom of Money": 2,
     },
     "quote_amount": {
       "NFT": 10000
@@ -114,8 +114,6 @@
       "设置了自定义阈值的",
       "KOGE",
       "CHECK",
-      "UP",
-      "BULLA",
       "Freedom of Money",
       "买卖差价有点巨大的，采用原始阈值",
       "ARIAIP",
