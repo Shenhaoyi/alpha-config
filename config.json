@@ -6,12 +6,8 @@
       "pippin": 0.6,
       "VVV": 0.8,
       "KOGE": 4,
-      "CHECK": 4,
       "Freedom of Money": 2,
-      "R2": 4,
-      "SKYAI": 3,
-      "Q": 4,
-      "TRADOOR": 2.5
+      "R2": 4
     },
     "quote_amount": {
       "NFT": 10000,
@@ -125,8 +121,6 @@
       "KOGE",
       "CHECK",
       "Freedom of Money",
-      "TRADOOR",
-      "AIOT",
       "买卖差价有点巨大的，采用原始阈值",
       "ARIAIP",
       "SOON",
