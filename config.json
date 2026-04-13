@@ -8,9 +8,7 @@
       "KOGE": 4,
       "Freedom of Money": 2,
       "R2": 4,
-      "SKYAI": 3,
-      "TIMI": 4,
-      "DIGI": 4
+      "SKYAI": 3
     },
     "quote_amount": {
       "NFT": 10000,
@@ -70,7 +68,9 @@
       "MGP"
     ],
     "bn_alpha_history": [
-      "PUMPBTC"
+      "PUMPBTC",
+      "TIMI",
+      "DIGI"
     ],
     "temp": [],
     "use_bn_dex_price": [
