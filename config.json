@@ -6,7 +6,7 @@
       "pippin": 0.6,
       "VVV": 0.8,
       "KOGE": 4,
-      "Freedom of Money": 2,
+      "Freedom of Money": 2.5,
       "R2": 4,
       "SKYAI": 3
     },
@@ -72,6 +72,11 @@
     "temp": [],
     "use_bn_dex_price": [
       "CRCLon",
+      "MYX",
+      "B2",
+      "BAS",
+      "BLESS",
+      "XNY",
       "=="
     ],
     "night": [
