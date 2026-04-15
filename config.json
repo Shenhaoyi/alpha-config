@@ -11,7 +11,8 @@
     },
     "quote_amount": {
       "NFT": 10000,
-      "GUA": 3000
+      "GUA": 3000,
+      "PLAY": 1000
     },
     "chain": [
       "按链屏蔽: Ethereum/Base/Arbitrum/Sonic/TRON/Sui"
