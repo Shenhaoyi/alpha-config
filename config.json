@@ -7,7 +7,8 @@
       "VVV": 0.8,
       "KOGE": 4,
       "SKYAI": 3,
-      "BASED": 3
+      "BASED": 3,
+      "BLESS": 3
     },
     "quote_amount": {
       "NFT": 10000
@@ -118,6 +119,8 @@
       "KOGE",
       "BASED",
       "AKE",
+      "BLESS",
+      "SKYAI",
       "买卖差价有点巨大的，采用原始阈值",
       "ARIAIP",
       "SOON",
