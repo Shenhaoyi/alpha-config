@@ -11,8 +11,7 @@
     },
     "quote_amount": {
       "NFT": 10000,
-      "GUA": 3000,
-      "PLAY": 1000
+      "GUA": 3000
     },
     "chain": [
       "按链屏蔽: Ethereum/Base/Arbitrum/Sonic/TRON/Sui"
@@ -115,7 +114,6 @@
       "CYPR",
       "KOGE",
       "Freedom of Money",
-      "PLAY",
       "买卖差价有点巨大的，采用原始阈值",
       "ARIAIP",
       "SOON",
