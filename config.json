@@ -5,11 +5,7 @@
       "NFT": 0.7,
       "pippin": 2,
       "VVV": 0.8,
-      "KOGE": 4,
-      "SKYAI": 4,
-      "BASED": 3,
-      "BLESS": 3,
-      "PRL": 3
+      "KOGE": 4
     },
     "quote_amount": {
       "NFT": 10000
@@ -118,12 +114,6 @@
       "GUA",
       "CYPR",
       "KOGE",
-      "BASED",
-      "AKE",
-      "BLESS",
-      "SKYAI",
-      "PRL",
-      "GENIUS",
       "买卖差价有点巨大的，采用原始阈值",
       "ARIAIP",
       "SOON",
