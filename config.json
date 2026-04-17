@@ -11,7 +11,7 @@
       "BR": 4,
       "POWER": 4,
       "FOLKS": 4,
-      "SIREN": 8,
+      "SIREN": 5,
       "PRL": 4
     },
     "quote_amount": {
@@ -72,8 +72,7 @@
       "MGP"
     ],
     "bn_alpha_history": [
-      "ROAM",
-      "SIREN"
+      "ROAM"
     ],
     "temp": [],
     "use_bn_dex_price": [
