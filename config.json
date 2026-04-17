@@ -11,7 +11,8 @@
       "BR": 4,
       "POWER": 4,
       "FOLKS": 4,
-      "SIREN": 4
+      "SIREN": 6,
+      "PRL": 4
     },
     "quote_amount": {
       "NFT": 10000
