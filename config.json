@@ -11,7 +11,7 @@
       "ST": 3,
       "RAVE": 2,
       "INX": 3,
-      "BUBB": 6,
+      "BUBB": 5,
       "M": 2.5
     },
     "quote_amount": {
@@ -71,11 +71,6 @@
     "temp": [],
     "use_bn_dex_price": [
       "CRCLon",
-      "MYX",
-      "B2",
-      "BAS",
-      "BLESS",
-      "XNY",
       "=="
     ],
     "night": [
