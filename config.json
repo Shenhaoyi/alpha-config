@@ -12,7 +12,8 @@
       "NFT": 10000
     },
     "chain": [
-      "按链屏蔽: Ethereum/Base/Arbitrum/Sonic/TRON/Sui"
+      "按链屏蔽: Ethereum/Base/Arbitrum/Sonic/TRON/Sui",
+      "Ethereum"
     ],
     "skip_quote": [
       "PePe",
