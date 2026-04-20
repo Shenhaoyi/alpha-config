@@ -72,7 +72,9 @@
       "老是单边归零",
       "MGP"
     ],
-    "bn_alpha_history": [],
+    "bn_alpha_history": [
+      "APU"
+    ],
     "temp": [],
     "use_bn_dex_price": [
       "CRCLon",
