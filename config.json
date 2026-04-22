@@ -15,7 +15,8 @@
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
-      "TROLL"
+      "TROLL",
+      "哈基米"
     ],
     "quote_amount": {
       "NFT": 10000,
