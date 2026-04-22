@@ -18,7 +18,7 @@
     ],
     "quote_amount": {
       "NFT": 10000,
-      "VVV": 5000,
+      "VVV": 5000
     },
     "chain": [
       "按链屏蔽（注意，全都得用小写）: Ethereum/Base/Arbitrum/Sonic/TRON/Sui",
