@@ -11,7 +11,7 @@
       "RAVE": 2,
       "BUBB": 4,
       "M": 2,
-      "ZEREBRO": 2
+      "Q": 3
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
@@ -23,8 +23,7 @@
       "VVV": 5000
     },
     "chain": [
-      "按链屏蔽（注意，全都得用小写）: Ethereum/Base/Arbitrum/Sonic/TRON/Sui",
-      "ethereum"
+      "按链屏蔽（注意，全都得用小写）: Ethereum/Base/Arbitrum/Sonic/TRON/Sui"
     ],
     "skip_quote": [
       "PePe",
