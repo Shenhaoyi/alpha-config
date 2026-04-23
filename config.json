@@ -12,7 +12,8 @@
       "BUBB": 4,
       "M": 2,
       "Q": 3,
-      "DGRAM": 4
+      "DGRAM": 4,
+      "PINGPONG": 5
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
