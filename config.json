@@ -13,7 +13,8 @@
       "M": 2,
       "Q": 3,
       "DGRAM": 4,
-      "PINGPONG": 5
+      "PINGPONG": 5,
+      "VELVET": 5
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
@@ -129,6 +130,7 @@
       "RAVE",
       "M",
       "VVV",
+      "VELVET",
       "买卖差价有点巨大的，采用原始阈值",
       "ARIAIP",
       "SOON",
