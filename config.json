@@ -6,7 +6,8 @@
       "VVV": 0.8,
       "SKYAI": 1.2,
       "PINGPONG": 4,
-      "RION": 4
+      "RION": 4,
+      "AIAV": 4
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
@@ -107,6 +108,7 @@
       "XLAB",
       "ROLL",
       "DGRAM",
+      "AIAV",
       "设置了自定义阈值的",
       "BR",
       "Anon",
