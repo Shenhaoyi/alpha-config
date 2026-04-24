@@ -8,7 +8,8 @@
       "PINGPONG": 4,
       "RION": 4,
       "AIAV": 4,
-      "BOOM": 5.5
+      "BOOM": 5.5,
+      "TTD": 5
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
@@ -110,6 +111,7 @@
       "ROLL",
       "DGRAM",
       "AIAV",
+      "TTD",
       "设置了自定义阈值的",
       "BR",
       "Anon",
