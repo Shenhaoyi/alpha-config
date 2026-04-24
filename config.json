@@ -10,7 +10,8 @@
       "AIAV": 4,
       "BOOM": 5.5,
       "TTD": 5,
-      "TOKEN": 2.5
+      "TOKEN": 2.5,
+      "SIGMA": 4
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
