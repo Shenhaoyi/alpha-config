@@ -9,7 +9,8 @@
       "SKYAI": 1.2,
       "PINGPONG": 4,
       "DGRAM": 4,
-      "RION": 5
+      "RION": 5,
+      "BSB": 2.5
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
