@@ -11,7 +11,8 @@
       "BOOM": 5.5,
       "TTD": 5,
       "TOKEN": 2.5,
-      "SIGMA": 4
+      "SIGMA": 4,
+      "CAI": 4
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
@@ -114,6 +115,8 @@
       "DGRAM",
       "AIAV",
       "TTD",
+      "SIGMA",
+      "CAI",
       "设置了自定义阈值的",
       "BR",
       "Anon",
@@ -121,7 +124,6 @@
       "DMC",
       "GUA",
       "VVV",
-      "SIGMA",
       "买卖差价有点巨大的，采用原始阈值",
       "ARIAIP",
       "SOON",
