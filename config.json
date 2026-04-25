@@ -7,7 +7,7 @@
       "SKYAI": 1.2,
       "PINGPONG": 4,
       "RION": 4,
-      "AIAV": 4,
+      "AIAV": 6,
       "BOOM": 5.5,
       "TTD": 5,
       "TOKEN": 2.5,
@@ -71,9 +71,7 @@
       "老是单边归零",
       "MGP"
     ],
-    "bn_alpha_history": [
-      "AIAV"
-    ],
+    "bn_alpha_history": [],
     "temp": [],
     "use_bn_dex_price": [
       "CRCLon",
