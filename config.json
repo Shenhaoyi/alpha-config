@@ -21,7 +21,9 @@
       "NB": 8,
       "42": 5,
       "KLINK": 6,
-      "LISA": 7
+      "LISA": 7,
+      "ECHO": 4,
+      "GATA": 4
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
@@ -140,6 +142,8 @@
       "42",
       "KLINK",
       "LISA",
+      "ECHO",
+      "GATA",
       "设置了自定义阈值的",
       "BR",
       "Anon",
