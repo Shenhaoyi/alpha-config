@@ -20,7 +20,8 @@
       "SIGMA": 4.5,
       "NB": 8,
       "42": 5,
-      "KLINK": 6
+      "KLINK": 6,
+      "LISA": 7
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
@@ -138,6 +139,7 @@
       "NB",
       "42",
       "KLINK",
+      "LISA",
       "设置了自定义阈值的",
       "BR",
       "Anon",
