@@ -23,7 +23,9 @@
       "KLINK": 6,
       "LISA": 7,
       "ECHO": 5,
-      "GATA": 5
+      "GATA": 5,
+      "CORL": 6,
+      "OIK": 5
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
@@ -147,6 +149,8 @@
       "LISA",
       "ECHO",
       "GATA",
+      "CORL",
+      "OIK",
       "设置了自定义阈值的",
       "BR",
       "Anon",
