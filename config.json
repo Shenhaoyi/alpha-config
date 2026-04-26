@@ -25,7 +25,8 @@
       "ECHO": 5,
       "GATA": 5,
       "CORL": 6,
-      "OIK": 5
+      "OIK": 5,
+      "MM": 4
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
@@ -153,6 +154,7 @@
       "OIK",
       "R2",
       "GWEI",
+      "MM",
       "设置了自定义阈值的",
       "BR",
       "Anon",
