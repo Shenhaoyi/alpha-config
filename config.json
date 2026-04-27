@@ -31,7 +31,8 @@
       "REX": 4,
       "DARKSTAR": 5,
       "ESIM": 6,
-      "DAM": 5
+      "DAM": 5,
+      "TYCOON": 4
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
@@ -77,7 +78,6 @@
       "MAIGA",
       "NODE",
       "TANSSI",
-      "TYCOON",
       "TAKER",
       "--流动性太差-",
       "ARIAIP",
@@ -170,6 +170,7 @@
       "LISA",
       "DARKSTAR",
       "ESIM",
+      "TYCOON",
       "设置了自定义阈值的",
       "BR",
       "Anon",
