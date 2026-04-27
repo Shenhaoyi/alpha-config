@@ -32,7 +32,13 @@
       "DARKSTAR": 5,
       "ESIM": 6,
       "DAM": 5,
-      "TYCOON": 4
+      "TYCOON": 4,
+      "BOOP": 5,
+      "MTP": 5,
+      "AIN": 5,
+      "42": 7,
+      "XTER": 6,
+      "Sight": 6
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
@@ -171,6 +177,12 @@
       "DARKSTAR",
       "ESIM",
       "TYCOON",
+      "BOOP",
+      "MTP",
+      "AIN",
+      "XTER",
+      "42",
+      "Sight",
       "设置了自定义阈值的",
       "BR",
       "Anon",
