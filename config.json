@@ -30,7 +30,8 @@
       "MM": 4,
       "REX": 4,
       "DARKSTAR": 5,
-      "ESIM": 6
+      "ESIM": 6,
+      "DAM": 5
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
