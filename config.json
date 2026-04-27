@@ -27,7 +27,8 @@
       "CORL": 6,
       "OIK": 5,
       "MM": 4,
-      "REX": 4
+      "REX": 4,
+      "DARKSTAR": 5
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
@@ -162,6 +163,7 @@
       "OVL",
       "REX",
       "LISA",
+      "DARKSTAR",
       "设置了自定义阈值的",
       "BR",
       "Anon",
