@@ -92,9 +92,7 @@
       "老是单边归零",
       "MGP"
     ],
-    "bn_alpha_history": [
-      "OIK"
-    ],
+    "bn_alpha_history": [],
     "temp": [],
     "use_bn_dex_price": [
       "CRCLon",
