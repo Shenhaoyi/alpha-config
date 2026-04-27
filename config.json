@@ -3,40 +3,38 @@
   "data": {
     "threshold": {
       "NFT": 0.7,
-      "VVV": 0.8,
-      "SKYAI": 1.2,
-      "TOKEN": 2.5,
-      "BSB": 4.5,
+      "VVV": 0.6,
+      "SKYAI": 1,
+      "TOKEN": 2,
+      "BSB": 3.5,
       "----": 0,
       "PINGPONG": 4,
       "RION": 4,
-      "AIAV": 5,
+      "AIAV": 3.5,
       "BOOM": 4,
       "TTD": 4,
       "DIGI": 4,
-      "CAI": 7,
-      "LONG": 4.5,
+      "CAI": 4,
+      "LONG": 5,
       "COMMON": 5,
-      "SIGMA": 3.5,
-      "NB": 6,
+      "SIGMA": 3,
+      "NB": 5,
       "42": 6,
-      "KLINK": 6,
+      "KLINK": 5,
       "LISA": 7,
       "ECHO": 5,
       "GATA": 5,
       "CORL": 6,
       "OIK": 5,
       "MM": 4,
-      "REX": 4,
-      "LISA": 6
+      "REX": 4
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
-      "哈基米",
-      "DGRAM"
+      "哈基米"
     ],
     "quote_amount": {
-      "NFT": 10000
+      "NFT": 8000
     },
     "chain": [
       "按链屏蔽（注意，全都得用小写）: Ethereum/Base/Arbitrum/Sonic/TRON/Sui"
