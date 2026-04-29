@@ -7,8 +7,7 @@
       "SKYAI": 1.3,
       "TOKEN": 2,
       "BSB": 2.5,
-      "ZKJ": 4,
-      "BOB": 2,
+      "ZKJ": 2.5,
       "----": 0,
       "PINGPONG": 4,
       "RION": 4,
@@ -97,10 +96,7 @@
       "老是单边归零",
       "MGP"
     ],
-    "bn_alpha_history": [
-      "TYCOON",
-      "VRA"
-    ],
+    "bn_alpha_history": [],
     "temp": [],
     "use_bn_dex_price": [
       "CRCLon",
