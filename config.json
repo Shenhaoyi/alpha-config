@@ -31,7 +31,18 @@
       "BOOP": 5,
       "MTP": 5,
       "DGRAM": 3.5,
-      "TAKER": 5
+      "TAKER": 5,
+      "AIN": 5,
+      "ODOS": 5,
+      "AIO": 6,
+      "WoD": 6.5,
+      "XTER": 7,
+      "SUP": 8,
+      "42": 8,
+      "X": 5,
+      "ROAM": 8,
+      "TYCOON": 9,
+      "VRA": 9
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
@@ -155,6 +166,17 @@
       "MTP",
       "DAM",
       "TAKER",
+      "AIN",
+      "ODOS",
+      "AIO",
+      "WoD",
+      "XTER",
+      "SUP",
+      "42",
+      "X",
+      "ROAM",
+      "TYCOON",
+      "VRA",
       "设置了自定义阈值的",
       "BR",
       "Anon",
@@ -170,7 +192,8 @@
       "PROMPT",
       "CPOOL",
       "ACN",
-      "AIGENSYN"
+      "AIGENSYN",
+      "ZETA"
     ]
   }
 }
