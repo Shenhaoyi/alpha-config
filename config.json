@@ -42,7 +42,8 @@
       "42": 8,
       "X": 5,
       "TYCOON": 9,
-      "VRA": 9
+      "VRA": 9,
+      "PUMPBTC": 7
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
@@ -176,6 +177,7 @@
       "X",
       "TYCOON",
       "VRA",
+      "PUMPBTC",
       "设置了自定义阈值的",
       "BR",
       "Anon",
