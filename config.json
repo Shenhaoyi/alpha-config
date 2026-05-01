@@ -30,7 +30,8 @@
       "DAM": 2,
       "BOOP": 5,
       "MTP": 5,
-      "DGRAM": 3.5
+      "DGRAM": 3.5,
+      "TAKER": 5
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
@@ -153,6 +154,7 @@
       "BOOP",
       "MTP",
       "DAM",
+      "TAKER",
       "设置了自定义阈值的",
       "BR",
       "Anon",
