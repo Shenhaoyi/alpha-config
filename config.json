@@ -7,7 +7,6 @@
       "SKYAI": 1.3,
       "TOKEN": 2,
       "BSB": 2.5,
-      "ZKJ": 2.5,
       "ACN": 3,
       "AIGENSYN": 3,
       "----": 0,
@@ -52,8 +51,7 @@
       "AIGENSYN": 1000
     },
     "chain": [
-      "按链屏蔽（注意，全都得用小写）: Ethereum/Base/Arbitrum/Sonic/TRON/Sui",
-      "ethereum"
+      "按链屏蔽（注意，全都得用小写）: Ethereum/Base/Arbitrum/Sonic/TRON/Sui"
     ],
     "skip_quote": [
       "PePe",
@@ -183,7 +181,6 @@
       "DMC",
       "GUA",
       "VVV",
-      "ZKJ",
       "买卖差价有点巨大的，采用原始阈值",
       "ARIAIP",
       "ATH",
