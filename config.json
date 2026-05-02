@@ -9,7 +9,7 @@
       "BSB": 2.5,
       "ACN": 3,
       "AIGENSYN": 3,
-      "UB": 3,
+      "UB": 2,
       "B": 3,
       "LAB": 4,
       "----": 0,
@@ -44,9 +44,7 @@
       "PUMPBTC": 7
     },
     "not_repeated_notify": [
-      "不要重复通知，适用于额度大但没利润的",
-      "哈基米",
-      "UP"
+      "不要重复通知，适用于额度大但没利润的"
     ],
     "quote_amount": {
       "NFT": 8000,
@@ -63,23 +61,22 @@
     "okx_alpha": [],
     "okx_alpha_big_change": [
       "FUEL",
-      "ARIAIP",
+      "ROLL",
       "TAIKO",
       "EPT",
-      "BOS",
+      "GM",
       "ZTC",
-      "ROLL",
+      "BOS",
+      "GAIB",
       "U",
       "SPA",
       "PRAI",
-      "GM",
-      "GAIB",
       "MAIGA",
       "ZEUS",
       "NODE",
       "ROAM",
-      "OIK",
       "BLUM",
+      "OIK",
       "WARD",
       "--流动性太差-",
       "ARIAIP",
