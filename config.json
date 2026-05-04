@@ -36,7 +36,8 @@
       "TAKER": 5,
       "AIN": 5,
       "ODOS": 5,
-      "PUMPBTC": 7
+      "PUMPBTC": 7,
+      "VRA": 7
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
@@ -164,6 +165,7 @@
       "AIN",
       "ODOS",
       "PUMPBTC",
+      "VRA",
       "设置了自定义阈值的",
       "BR",
       "Anon",
