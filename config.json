@@ -37,7 +37,6 @@
       "TAKER": 5,
       "AIN": 5,
       "ODOS": 5,
-      "PUMPBTC": 7,
       "VRA": 7
     },
     "not_repeated_notify": [
@@ -61,6 +60,7 @@
     "okx_alpha": [],
     "okx_alpha_big_change": [
       "TAIKO",
+      "PUMPBTC",
       "FUEL",
       "ZTC",
       "EPT",
@@ -88,7 +88,9 @@
       "老是单边归零",
       "MGP"
     ],
-    "bn_alpha_history": [],
+    "bn_alpha_history": [
+      "PUMPBTC"
+    ],
     "temp": [],
     "use_bn_dex_price": [
       "CRCLon",
@@ -133,7 +135,6 @@
       "KLINK",
       "ESIM",
       "JOJO",
-      "PUMPBTC",
       "K",
       "DGRAM",
       "GAIN",
