@@ -38,7 +38,7 @@
       "AIN": 5,
       "ODOS": 5,
       "VRA": 7,
-      "PUMPBTC": 4
+      "PUMPBTC": 6
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
