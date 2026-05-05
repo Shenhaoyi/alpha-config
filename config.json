@@ -37,7 +37,8 @@
       "TAKER": 5,
       "AIN": 5,
       "ODOS": 5,
-      "VRA": 7
+      "VRA": 7,
+      "PUMPBTC": 4
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
@@ -60,7 +61,6 @@
     "okx_alpha": [],
     "okx_alpha_big_change": [
       "TAIKO",
-      "PUMPBTC",
       "FUEL",
       "ZTC",
       "EPT",
@@ -88,9 +88,7 @@
       "老是单边归零",
       "MGP"
     ],
-    "bn_alpha_history": [
-      "PUMPBTC"
-    ],
+    "bn_alpha_history": [],
     "temp": [],
     "use_bn_dex_price": [
       "CRCLon",
