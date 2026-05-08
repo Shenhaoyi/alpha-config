@@ -44,7 +44,7 @@
       "BOS": 6,
       "BLUM": 6,
       "WoD": 4,
-      "SUP": 8
+      "SUP": 4
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的"
