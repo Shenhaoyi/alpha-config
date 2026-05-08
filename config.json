@@ -28,7 +28,6 @@
       "SIGMA": 2.5,
       "NB": 5,
       "KLINK": 3.5,
-      "LISA": 10,
       "ECHO": 4.5,
       "GATA": 5,
       "CORL": 5,
@@ -93,7 +92,9 @@
       "老是单边归零",
       "MGP"
     ],
-    "bn_alpha_history": [],
+    "bn_alpha_history": [
+      "LISA"
+    ],
     "temp": [],
     "use_bn_dex_price": [
       "CRCLon",
@@ -117,7 +118,6 @@
       "TAKER",
       "ECHO",
       "VITA",
-      "LISA",
       "LONG",
       "VRA",
       "TOWN",
@@ -155,13 +155,11 @@
       "NB",
       "42",
       "KLINK",
-      "LISA",
       "ECHO",
       "GATA",
       "CORL",
       "R2",
       "GWEI",
-      "LISA",
       "ESIM",
       "BOOP",
       "MTP",
