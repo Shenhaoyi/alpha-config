@@ -50,7 +50,8 @@
       "LISA": 6,
       "DIGI": 6,
       "42": 8,
-      "VINU": 5
+      "VINU": 5,
+      "TYCOON": 11
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
@@ -181,6 +182,7 @@
       "DIGI",
       "42",
       "VINU",
+      "TYCOON",
       "设置了自定义阈值的",
       "BR",
       "Anon",
