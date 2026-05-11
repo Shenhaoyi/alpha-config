@@ -50,7 +50,8 @@
       "DIGI": 6,
       "42": 8,
       "VINU": 5,
-      "TYCOON": 8
+      "TYCOON": 8,
+      "OIK": 12
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的"
@@ -178,6 +179,7 @@
       "VINU",
       "TYCOON",
       "TOWN",
+      "OIK",
       "设置了自定义阈值的",
       "BR",
       "Anon",
