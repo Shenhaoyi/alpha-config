@@ -84,7 +84,8 @@
       "MGP"
     ],
     "bn_alpha_history": [
-      "CRCLon"
+      "CRCLon",
+      "BGSC"
     ],
     "temp": [],
     "use_bn_dex_price": [
