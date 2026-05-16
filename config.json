@@ -90,7 +90,9 @@
       "MGP",
       "OIK"
     ],
-    "bn_alpha_history": [],
+    "bn_alpha_history": [
+      "CRCLon"
+    ],
     "temp": [],
     "use_bn_dex_price": [
       "CRCLon",
