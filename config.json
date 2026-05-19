@@ -57,7 +57,8 @@
       "XNY": 3.3,
       "XTER": 7.1,
       "DN": 2.5,
-      "MGP": 4
+      "MGP": 4,
+      "ZEST": 3.5
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
