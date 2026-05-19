@@ -13,7 +13,7 @@
       "UB": 2,
       "B": 2,
       "LAB": 3,
-      "BSB": 2,
+      "BSB": 3,
       "WARD": 3,
       "BABYSHARK": 2,
       "FOREST": 3,
@@ -65,7 +65,8 @@
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
       "DN",
-      "MGP"
+      "MGP",
+      "BSB"
     ],
     "quote_amount": {
       "NFT": 8000,
