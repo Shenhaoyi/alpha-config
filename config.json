@@ -60,8 +60,7 @@
       "XNY": 4.9
     },
     "not_repeated_notify": [
-      "不要重复通知，适用于额度大但没利润的",
-      "GUA"
+      "不要重复通知，适用于额度大但没利润的"
     ],
     "quote_amount": {
       "NFT": 8000
@@ -92,9 +91,7 @@
       "ZEUS"
     ],
     "bn_alpha_history": [
-      "CRCLon",
-      "ESPORTS",
-      "GUA"
+      "CRCLon"
     ],
     "temp": [],
     "use_bn_dex_price": [
@@ -140,7 +137,7 @@
       "NAORIS",
       "PePe",
       "MGP",
-      "GUA",
+      "DRIFT",
       "买卖差价有点巨大的，采用原始阈值",
       "ATH",
       "FLUID",
