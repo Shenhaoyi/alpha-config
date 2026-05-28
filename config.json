@@ -58,7 +58,9 @@
       "VOOI": 3.8,
       "VRA": 3.3,
       "XCX": 4.8,
-      "XNY": 4.5
+      "XNY": 4.5,
+      "QAIT": 3.5,
+      "swarms": 3
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
