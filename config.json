@@ -52,7 +52,8 @@
       "不要重复通知，适用于额度大但没利润的",
       "MAGMA",
       "H",
-      "CUDIS"
+      "VELVET",
+      "M"
     ],
     "quote_amount": {
       "NFT": 8000
@@ -87,7 +88,8 @@
       "OIK"
     ],
     "bn_alpha_history": [
-      "H"
+      "H",
+      "CUDIS"
     ],
     "temp": [],
     "use_bn_dex_price": [
