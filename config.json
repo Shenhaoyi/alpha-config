@@ -51,7 +51,8 @@
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
       "MAGMA",
-      "H"
+      "H",
+      "CUDIS"
     ],
     "quote_amount": {
       "NFT": 8000
