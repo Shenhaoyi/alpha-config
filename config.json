@@ -90,7 +90,8 @@
     ],
     "bn_alpha_history": [
       "H",
-      "CUDIS"
+      "CUDIS",
+      "VINE"
     ],
     "temp": [],
     "use_bn_dex_price": [
