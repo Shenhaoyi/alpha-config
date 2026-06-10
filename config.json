@@ -89,7 +89,8 @@
     ],
     "bn_alpha_history": [
       "H",
-      "VINE"
+      "VINE",
+      "MAGMA"
     ],
     "temp": [],
     "use_bn_dex_price": [
