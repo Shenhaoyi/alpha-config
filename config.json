@@ -23,7 +23,7 @@
       "BEAT": 2.5,
       "ZEST": 3.5,
       "BTW": 2.5,
-      "BTG": 5,
+      "DN": 5,
       "USELESS": 4,
       "----": 0,
       "42": 4.5,
@@ -138,8 +138,7 @@
       "NAORIS",
       "PePe",
       "MGP",
-      "BTG",
-      "USELESS",
+      "DN",
       "VELVET",
       "买卖差价有点巨大的，采用原始阈值",
       "ATH",
@@ -149,7 +148,8 @@
       "ACN",
       "ZETA",
       "VITA",
-      "$PAAL"
+      "$PAAL",
+      "USELESS"
     ]
   }
 }
