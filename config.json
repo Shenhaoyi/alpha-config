@@ -52,7 +52,8 @@
       "不要重复通知，适用于额度大但没利润的",
       "MAGMA",
       "VELVET",
-      "M"
+      "M",
+      "GWEI"
     ],
     "quote_amount": {
       "NFT": 8000
