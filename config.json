@@ -51,7 +51,6 @@
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
       "MAGMA",
-      "H",
       "VELVET",
       "M"
     ],
@@ -90,7 +89,6 @@
       "OIK"
     ],
     "bn_alpha_history": [
-      "H",
       "VINE",
       "MAGMA"
     ],
@@ -98,8 +96,7 @@
     "use_bn_dex_price": [
       "CRCLon",
       "==",
-      "MAGMA",
-      "CUDIS"
+      "MAGMA"
     ],
     "night": [
       "MYX",
