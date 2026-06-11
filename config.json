@@ -27,7 +27,6 @@
       "USELESS": 4,
       "----": 0,
       "42": 4.5,
-      "AIO": 5,
       "AIN": 5.4,
       "BGSC": 5.6,
       "BLUM": 6.5,
@@ -116,7 +115,6 @@
     ],
     "original_threshold": [
       "42",
-      "AIO",
       "AIN",
       "BGSC",
       "BLUM",
