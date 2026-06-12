@@ -6,6 +6,7 @@
       "VVV": 0.6,
       "SKYAI": 1.8,
       "ACN": 2.5,
+      "USELESS": 4,
       "Freedom of Money": 2,
       "PePe": 1.5,
       "MGP": 2.5,
@@ -21,18 +22,16 @@
       "R2": 3.5,
       "FLUID": 4,
       "BEAT": 2.5,
-      "ZEST": 3.5,
+      "ZEST": 3,
       "BTW": 2.5,
-      "DN": 5,
-      "USELESS": 4,
       "----": 0,
       "42": 4.5,
       "AIN": 5.4,
-      "BABYSHARK": 5.7,
       "BGSC": 5.6,
       "BLUM": 6.5,
       "BOOP": 4.1,
       "BOS": 4.3,
+      "CYPR": 5.6,
       "DGRAM": 4.8,
       "DMC": 6.6,
       "KILO": 3.3,
@@ -45,16 +44,14 @@
       "SUP": 4.2,
       "TIMI": 3.2,
       "TOWN": 4.2,
-      "VINU": 5.3,
-      "XNY": 4.1
+      "VINU": 5.3
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
       "MAGMA",
       "VELVET",
       "M",
-      "GWEI",
-      "VELVET"
+      "GWEI"
     ],
     "quote_amount": {
       "NFT": 8000
@@ -72,18 +69,20 @@
     "okx_alpha_big_change": [
       "CUDIS",
       "GAME",
-      "TAIKO",
+      "EPT",
       "U",
       "FUEL",
+      "TAIKO",
       "WILD",
-      "EPT",
+      "CESS",
       "ODOS",
-      "VRA",
       "XTER",
       "ZTC",
-      "GAIB",
       "BAY",
+      "GAIB",
+      "VRA",
       "SPA",
+      "ZEUS",
       "--流动性太差-",
       "BDXN",
       "老是单边归零",
@@ -91,8 +90,7 @@
       "OIK"
     ],
     "bn_alpha_history": [
-      "VINE",
-      "MAGMA"
+      "VINE"
     ],
     "temp": [],
     "use_bn_dex_price": [
@@ -114,12 +112,10 @@
     "original_threshold": [
       "42",
       "AIN",
-      "BABYSHARK",
       "BGSC",
       "BLUM",
       "BOOP",
-      "BOS",
-      "CESS",
+      "CYPR",
       "DGRAM",
       "DMC",
       "LISA",
@@ -127,6 +123,7 @@
       "OWL",
       "POKT",
       "SHADOW",
+      "SN3",
       "SUP",
       "TOWN",
       "VINU",
