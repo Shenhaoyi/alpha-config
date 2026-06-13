@@ -93,7 +93,6 @@
     ],
     "bn_alpha_history": [
       "VINE",
-      "BABYSHARK",
       "AIO"
     ],
     "temp": [],
@@ -139,6 +138,7 @@
       "MGP",
       "NB",
       "VELVET",
+      "SIREN",
       "买卖差价有点巨大的，采用原始阈值",
       "ATH",
       "FLUID",
