@@ -48,7 +48,8 @@
       "TOWN": 4.2,
       "VINU": 5.3,
       "XNY": 3.3,
-      "TTD": 5
+      "TTD": 5,
+      "XTER": 5
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
@@ -139,6 +140,7 @@
       "MGP",
       "DGRAM",
       "TTD",
+      "XTER",
       "买卖差价有点巨大的，采用原始阈值",
       "ATH",
       "FLUID",
