@@ -52,7 +52,8 @@
       "VINU": 4.9,
       "VRA": 6.8,
       "XCX": 3.5,
-      "BAY": 5
+      "BAY": 5,
+      "ROAM": 6
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
@@ -135,6 +136,7 @@
       "TOWN",
       "VINU",
       "VRA",
+      "ROAM",
       "设置了自定义阈值的",
       "BR",
       "VVV",
