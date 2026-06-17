@@ -22,7 +22,7 @@
       "FLUID": 4,
       "BEAT": 2,
       "ZEST": 2,
-      "BTW": 22,
+      "BTW": 2,
       "哭哭马": 3,
       "人生K线": 3,
       "客服小何": 3,
@@ -92,10 +92,7 @@
       "OIK"
     ],
     "bn_alpha_history": [
-      "VINE",
-      "AIO",
-      "CESS",
-      "BLUM"
+      "CESS"
     ],
     "temp": [],
     "use_bn_dex_price": [
@@ -142,12 +139,6 @@
       "NAORIS",
       "PePe",
       "MGP",
-      "DGRAM",
-      "TTD",
-      "XTER",
-      "NB",
-      "BAY",
-      "DN",
       "买卖差价有点巨大的，采用原始阈值",
       "ATH",
       "FLUID",
