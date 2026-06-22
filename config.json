@@ -44,6 +44,7 @@
       "KILO": 3.5,
       "LISA": 4.2,
       "OIK": 5.1,
+      "OWL": 5,
       "POKT": 3.5,
       "ROAM": 3.4,
       "SD": 5.4,
@@ -91,9 +92,7 @@
       "MGP",
       "OIK"
     ],
-    "bn_alpha_history": [
-      "OWL"
-    ],
+    "bn_alpha_history": [],
     "temp": [],
     "use_bn_dex_price": [
       "CRCLon",
@@ -123,6 +122,7 @@
       "DMC",
       "LISA",
       "OIK",
+      "OWL",
       "SD",
       "SHADOW",
       "VINU",
