@@ -3,7 +3,7 @@
   "data": {
     "threshold": {
       "NFT": 0.5,
-      "VVV": 0.6,
+      "VVV": 0.7,
       "SKYAI": 1.8,
       "USELESS": 4,
       "Freedom of Money": 2,
@@ -84,35 +84,21 @@
       "--流动性太差-",
       "BDXN",
       "老是单边归零",
-      "MGP",
-      "OIK"
+      "MGP"
     ],
     "bn_alpha_history": [
       "CESS",
-      "BTR",
-      "H",
       "=上面的永久拉黑，老是买卖差价巨大=",
       "VINE",
-      "DMC",
-      "PIPE",
       "=上面是限价单卡单无法成交的=",
-      "KGEN",
       "=上面是老是瞬间插针的=",
       "GUA",
       "CUDIS",
       "=上面是已拉黑，但脚本还没剔除的="
     ],
-    "temp": [],
     "use_bn_dex_price": [
       "CRCLon",
       "=="
-    ],
-    "night": [
-      "MYX",
-      "B2",
-      "BAS",
-      "BLESS",
-      "XNY"
     ],
     "order_book": [
       "真的需要屏蔽的",
@@ -146,9 +132,6 @@
       "AIAV",
       "CAI",
       "XCX",
-      "DGRAM",
-      "BTW",
-      "TOWN",
       "TIMI",
       "BTG",
       "ESIM",
@@ -157,7 +140,6 @@
       "BABYSHARK",
       "GWEI",
       "WAI",
-      "IN",
       "VELVET",
       "买卖差价有点巨大的，采用原始阈值",
       "ATH",
