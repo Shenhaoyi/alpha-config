@@ -56,7 +56,7 @@
       "VELVET"
     ],
     "quote_amount": {
-      "NFT": 8000
+      "NFT": 3000
     },
     "chain": [
       "按链屏蔽（注意，全都得用小写）: Ethereum/Base/Arbitrum/Sonic/TRON/Sui"
