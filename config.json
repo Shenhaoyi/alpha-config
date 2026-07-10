@@ -112,7 +112,8 @@
     ],
     "use_bn_dex_price": [
       "CRCLon",
-      "=="
+      "==",
+      "DATAIP"
     ],
     "order_book": [
       "真的需要屏蔽的",
