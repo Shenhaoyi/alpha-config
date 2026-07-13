@@ -41,7 +41,6 @@
       "BAY": 8.5,
       "BDXN": 5.1,
       "BGSC": 5.1,
-      "BLUM": 5.2,
       "BOOP": 4.1,
       "CAI": 4.8,
       "CDL": 3.1,
@@ -106,6 +105,7 @@
       "PUBLIC",
       "R2",
       "H",
+      "BLUM",
       "=上面是已拉黑，但脚本还没剔除的="
     ],
     "use_bn_dex_price": [
@@ -124,7 +124,6 @@
       "BAY",
       "BDXN",
       "BGSC",
-      "BLUM",
       "BOOP",
       "CAI",
       "DMC",
