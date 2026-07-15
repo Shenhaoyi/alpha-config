@@ -43,7 +43,6 @@
       "BDXN": 5.1,
       "BGSC": 5.1,
       "BOOP": 4.1,
-      "CAI": 5.3,
       "DMC": 6.9,
       "DN": 5,
       "LISA": 5.4,
@@ -55,8 +54,7 @@
       "XMN": 8.8,
       "XNY": 3.8,
       "XTER": 3.6,
-      "ZEUS": 5.4,
-      "ZRC": 5.2
+      "ZEUS": 5.4
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的",
@@ -108,6 +106,8 @@
       "R2",
       "H",
       "BLUM",
+      "ZRC",
+      "CAI",
       "=上面是已拉黑，但脚本还没剔除的="
     ],
     "use_bn_dex_price": [
@@ -127,7 +127,6 @@
       "BDXN",
       "BGSC",
       "BOOP",
-      "CAI",
       "DMC",
       "DN",
       "LISA",
@@ -140,7 +139,6 @@
       "XNY",
       "XTER",
       "ZEUS",
-      "ZRC",
       "设置了自定义阈值的",
       "BR",
       "VVV",
@@ -151,7 +149,6 @@
       "MAIGA",
       "SUP",
       "AIAV",
-      "CAI",
       "XCX",
       "TIMI",
       "BTG",
@@ -166,7 +163,6 @@
       "ARTX",
       "B",
       "EVAA",
-      "ZRC",
       "买卖差价有点巨大的，采用原始阈值",
       "ATH",
       "FLUID",
