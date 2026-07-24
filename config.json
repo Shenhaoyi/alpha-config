@@ -35,7 +35,7 @@
       "ARTX": 2,
       "DOYR": 3,
       "IDOL": 2,
-      "AKE": 5,
+      "AKE": 3,
       "----": 0,
       "42": 6.4,
       "AIN": 4.6,
@@ -111,8 +111,7 @@
     ],
     "order_book": [
       "真的需要屏蔽的",
-      "CRCLon",
-      "AKE"
+      "CRCLon"
     ],
     "original_threshold": [
       "42",
