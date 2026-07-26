@@ -65,7 +65,8 @@
       "ZEUS": 7.4
     },
     "not_repeated_notify": [
-      "不要重复通知，适用于额度大但没利润的"
+      "不要重复通知，适用于额度大但没利润的",
+      "HANA"
     ],
     "quote_amount": {
       "NFT": 3000
@@ -112,12 +113,12 @@
     "use_bn_dex_price": [
       "CRCLon",
       "==",
-      "DATAIP",
-      "CAP"
+      "DATAIP"
     ],
     "order_book": [
       "真的需要屏蔽的",
-      "CRCLon"
+      "CRCLon",
+      "CAP"
     ],
     "original_threshold": [
       "42",
