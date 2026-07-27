@@ -78,17 +78,18 @@
     "bn_alpha2": [],
     "okx_alpha": [],
     "okx_alpha_big_change": [
+      "XMN",
       "CUDIS",
-      "U",
-      "DAM",
       "WILD",
       "FUEL",
       "GAME",
+      "U",
+      "DAM",
+      "H",
       "SPA",
       "ZTC",
       "GAIB",
       "EPT",
-      "ZRC",
       "Anon",
       "NODE",
       "--流动性太差-",
@@ -117,8 +118,7 @@
     ],
     "order_book": [
       "真的需要屏蔽的",
-      "CRCLon",
-      "CAP"
+      "CRCLon"
     ],
     "original_threshold": [
       "42",
