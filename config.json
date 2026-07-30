@@ -32,10 +32,10 @@
       "MAGMA": 2,
       "M": 2,
       "ARTX": 2,
-      "DOYR": 3,
+      "DOYR": 2,
       "IDOL": 2,
       "AKE": 3,
-      "WAI": 3,
+      "WAI": 2.5,
       "AEON": 2,
       "MarsCoin": 5,
       "GRVT": 4,
@@ -93,22 +93,16 @@
       "SN3",
       "U",
       "--流动性太差-",
-      "BDXN",
-      "CESS",
       "老是单边归零",
       "MGP",
       "持续插针",
       "MEW",
-      "BAS",
       "H"
     ],
     "bn_alpha_history": [
       "=上面的永久拉黑，老是买卖差价巨大=",
       "=上面是限价单卡单无法成交的=",
       "=上面是老是瞬间插针的=",
-      "ZRC",
-      "DAM",
-      "XMN",
       "=上面是已拉黑，但脚本还没剔除的="
     ],
     "use_bn_dex_price": [
@@ -118,8 +112,7 @@
     ],
     "order_book": [
       "真的需要屏蔽的",
-      "CRCLon",
-      "CAP"
+      "CRCLon"
     ],
     "original_threshold": [
       "42",
