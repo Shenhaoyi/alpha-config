@@ -39,7 +39,7 @@
       "AEON": 2,
       "GRVT": 2,
       "KOMA": 2,
-      "P": 4,
+      "P": 3,
       "----": 0,
       "42": 6.7,
       "AIN": 4.2,
@@ -89,17 +89,18 @@
     "okx_alpha": [],
     "okx_alpha_big_change": [
       "RLS",
+      "XMN",
       "CUDIS",
       "WILD",
       "GAME",
       "TAIKO",
-      "ZRC",
       "SPA",
       "U",
       "ZTC",
-      "DAM",
+      "ZRC",
       "FUEL",
       "GAIB",
+      "DAM",
       "EPT",
       "NODE",
       "--流动性太差-",
@@ -123,8 +124,7 @@
     ],
     "order_book": [
       "真的需要屏蔽的",
-      "CRCLon",
-      "USELESS"
+      "CRCLon"
     ],
     "original_threshold": [
       "42",
