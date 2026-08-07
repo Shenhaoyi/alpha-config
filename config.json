@@ -4,7 +4,7 @@
     "threshold": {
       "NFT": 0.5,
       "VVV": 0.7,
-      "SKYAI": 1.8,
+      "SKYAI": 3,
       "USELESS": 4,
       "Freedom of Money": 2,
       "PePe": 1.5,
@@ -170,6 +170,7 @@
       "P",
       "QUID",
       "UB",
+      "SKYAI",
       "买卖差价有点巨大的，采用原始阈值",
       "ATH",
       "FLUID",
