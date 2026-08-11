@@ -2,8 +2,9 @@
   "code": 0,
   "data": {
     "threshold": {
+      "FLUID": 2,
       "NFT": 0.5,
-      "VVV": 0.4,
+      "VVV": 0.6,
       "USELESS": 4,
       "Freedom of Money": 1.5,
       "PePe": 1.5,
@@ -155,16 +156,13 @@
       "CYS",
       "GRVT",
       "买卖差价有点巨大的，采用原始阈值",
-      "ATH",
       "FLUID",
       "PROMPT",
       "CPOOL",
-      "ZETA",
       "VITA",
       "$PAAL",
       "OBOL",
-      "MAGMA",
-      "VITA"
+      "MAGMA"
     ],
     "use_full_depth": [
       "NFT",
