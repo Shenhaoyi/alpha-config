@@ -2,7 +2,6 @@
   "code": 0,
   "data": {
     "threshold": {
-      "FLUID": 2,
       "NFT": 0.5,
       "VVV": 0.6,
       "USELESS": 4,
