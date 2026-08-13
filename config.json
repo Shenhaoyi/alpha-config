@@ -186,6 +186,9 @@
       "NFT",
       "PePe",
       "PRL"
+    ],
+    "skip_high_liquidity_threshold": [
+      "AKE"
     ]
   }
 }
