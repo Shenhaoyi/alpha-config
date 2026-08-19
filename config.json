@@ -36,6 +36,7 @@
       "CAP": 2,
       "PRL": 2,
       "TAG": 2.5,
+      "TRIA": 3,
       "----": 0,
       "42": 10.2,
       "ANOME": 3.4,
@@ -183,6 +184,7 @@
       "CAP",
       "PRL",
       "TAG",
+      "TRIA",
       "买卖差价有点巨大的，采用原始阈值",
       "FLUID",
       "PROMPT",
@@ -197,8 +199,7 @@
       "NFT",
       "PePe",
       "PRL",
-      "BSB",
-      "TRIA"
+      "BSB"
     ],
     "skip_high_liquidity_threshold": [
       "大额单子小阈值处理的黑名单",
