@@ -3,14 +3,13 @@
   "data": {
     "threshold": {
       "NFT": 0.5,
-      "VVV": 0.6,
+      "VVV": 0.4,
       "USELESS": 3.5,
       "Freedom of Money": 1.5,
       "牛来": 3,
       "PePe": 1.5,
       "BTG": 3,
       "MAGMA": 2.5,
-      "M": 2,
       "QUID": 0.3,
       "SKYAI": 2,
       "BEAT": 2.5,
@@ -34,8 +33,6 @@
       "CAP": 2,
       "PRL": 2,
       "TAG": 2.5,
-      "TRIA": 2,
-      "STAR": 1.5,
       "----": 0,
       "ANOME": 3.4,
       "BABYSHARK": 3.2,
@@ -115,8 +112,7 @@
       "=上面是限价单卡单无法成交的=",
       "=上面是老是瞬间插针的=",
       "=上面是已拉黑，但脚本还没剔除的=",
-      "临时拉黑",
-      "KII"
+      "临时拉黑"
     ],
     "use_bn_dex_price": [
       "CRCLon",
@@ -160,35 +156,7 @@
       "Freedom of Money",
       "NAORIS",
       "PePe",
-      "BTG",
-      "AIO",
-      "M",
       "QUID",
-      "SKYAI",
-      "BEAT",
-      "JCT",
-      "UB",
-      "BTW",
-      "龙虾",
-      "TRADOOR",
-      "DOS",
-      "CYS",
-      "GRVT",
-      "BLUAI",
-      "VELVET",
-      "ON",
-      "ZEST",
-      "APR",
-      "AA",
-      "LAB",
-      "AKE",
-      "ACU",
-      "BAS",
-      "CAP",
-      "PRL",
-      "TAG",
-      "TRIA",
-      "STAR",
       "买卖差价有点巨大的，采用原始阈值",
       "FLUID",
       "PROMPT",
@@ -196,8 +164,7 @@
       "VITA",
       "$PAAL",
       "OBOL",
-      "MAGMA",
-      "H"
+      "MAGMA"
     ],
     "use_full_depth": [
       "NFT",
@@ -205,8 +172,7 @@
       "PRL"
     ],
     "skip_high_liquidity_threshold": [
-      "大额单子小阈值处理的黑名单",
-      "TRIA"
+      "大额单子小阈值处理的黑名单"
     ]
   }
 }
