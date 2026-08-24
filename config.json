@@ -109,8 +109,7 @@
       "ICNT",
       "WARD",
       "=上面是已拉黑，但脚本还没剔除的=",
-      "临时拉黑",
-      "KOGE"
+      "临时拉黑"
     ],
     "use_bn_dex_price": [
       "CRCLon",
@@ -174,7 +173,8 @@
     "skip_high_liquidity_threshold": [
       "大额单子小阈值处理的黑名单",
       "KII",
-      "RIVER"
+      "RIVER",
+      "KOGE"
     ],
     "min_threshold": {
       "哈基米": 0.4
