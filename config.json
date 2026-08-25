@@ -180,7 +180,8 @@
     "skip_high_liquidity_threshold": [
       "大额单子小阈值处理的黑名单",
       "KII",
-      "RIVER"
+      "RIVER",
+      "哭哭马"
     ],
     "min_threshold": {
       "哈基米": 0.4
