@@ -62,7 +62,8 @@
       "ZEUS": 8.4
     },
     "not_repeated_notify": [
-      "不要重复通知，适用于额度大但没利润的"
+      "不要重复通知，适用于额度大但没利润的",
+      "哭哭马"
     ],
     "quote_amount": {
       "NFT": 3000
@@ -110,9 +111,7 @@
       "WARD",
       "=上面是已拉黑，但脚本还没剔除的=",
       "临时拉黑",
-      "KOGE",
-      "APU",
-      "FLUID"
+      "KOGE"
     ],
     "use_bn_dex_price": [
       "CRCLon",
@@ -176,8 +175,7 @@
     "skip_high_liquidity_threshold": [
       "大额单子小阈值处理的黑名单",
       "KII",
-      "RIVER",
-      "KOGE"
+      "RIVER"
     ],
     "min_threshold": {
       "哈基米": 0.4
