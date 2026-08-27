@@ -35,7 +35,7 @@
       "CAP": 2,
       "PRL": 2,
       "TAG": 2.5,
-      "BABYSHARK": 4,
+      "BABYSHARK": 3.5,
       "FOREST": 2.5,
       "P": 2,
       "STAR": 2.5,
@@ -116,12 +116,8 @@
       "=上面是限价单卡单无法成交的=",
       "=上面是老是瞬间插针的=",
       "=上面是已拉黑，但脚本还没剔除的=",
-      "BAS",
-      "42",
-      "PUBLIC",
       "临时拉黑",
-      "KOGE",
-      "SD"
+      "KOGE"
     ],
     "use_bn_dex_price": [
       "CRCLon",
@@ -179,9 +175,7 @@
       "BTR",
       "P",
       "AKE",
-      "DEBIT",
       "STAR",
-      "TMX",
       "买卖差价有点巨大的，采用原始阈值",
       "FLUID",
       "PROMPT",
