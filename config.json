@@ -186,11 +186,7 @@
     ],
     "use_full_depth": [
       "NFT",
-      "PePe",
-      "PRL",
-      "APR",
-      "GRVT",
-      "LYN"
+      "PePe"
     ],
     "skip_high_liquidity_threshold": [
       "大额单子小阈值处理的黑名单",
