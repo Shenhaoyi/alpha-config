@@ -176,7 +176,6 @@
       "P",
       "AKE",
       "STAR",
-      "TMX",
       "买卖差价有点巨大的，采用原始阈值",
       "PROMPT",
       "CPOOL",
@@ -195,7 +194,8 @@
       "RIVER",
       "哭哭马",
       "DEBIT",
-      "4"
+      "4",
+      "FLUID"
     ],
     "min_threshold": {
       "哈基米": 0.4
