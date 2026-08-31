@@ -86,7 +86,8 @@
     ],
     "skip_quote": [
       "PePe",
-      "CRCLon"
+      "CRCLon",
+      "KII"
     ],
     "bn_alpha2": [],
     "okx_alpha": [],
@@ -193,7 +194,6 @@
     ],
     "skip_high_liquidity_threshold": [
       "大额单子小阈值处理的黑名单",
-      "KII",
       "RIVER",
       "哭哭马",
       "DEBIT",
