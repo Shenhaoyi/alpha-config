@@ -190,16 +190,16 @@
     "use_full_depth": [
       "NFT",
       "PePe",
-      "GRVT"
+      "GRVT",
+      "KII",
+      "SKR"
     ],
     "skip_high_liquidity_threshold": [
       "大额单子小阈值处理的黑名单",
       "RIVER",
       "哭哭马",
       "DEBIT",
-      "4",
-      "KII",
-      "SKR"
+      "4"
     ],
     "min_threshold": {
       "哈基米": 0.4
