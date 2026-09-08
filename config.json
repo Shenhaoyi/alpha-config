@@ -78,7 +78,7 @@
       "NFT": 3000
     },
     "chain": [
-      "按链屏蔽（注意，全都得用小写）: Ethereum/Base/Arbitrum/Sonic/TRON/Sui"
+      "按链屏蔽（注意，全都得用小写）: Ethereum/Base/Arbitrum/Sonic/TRON/Sui/Robinhood"
     ],
     "skip_quote": [
       "PePe",
@@ -119,7 +119,8 @@
       "=上面是老是瞬间插针的=",
       "=上面是已拉黑，但脚本还没剔除的=",
       "临时拉黑",
-      "ZKJ"
+      "ZKJ",
+      "XNY"
     ],
     "use_bn_dex_price": [
       "CRCLon",
