@@ -86,7 +86,9 @@
     ],
     "skip_quote": [
       "PePe",
-      "CRCLon"
+      "CRCLon",
+      "KII",
+      "KOGE"
     ],
     "bn_alpha2": [],
     "okx_alpha": [],
@@ -120,7 +122,6 @@
       "=上面是老是瞬间插针的=",
       "=上面是已拉黑，但脚本还没剔除的=",
       "临时拉黑",
-      "KOGE",
       "ZKJ"
     ],
     "use_bn_dex_price": [
