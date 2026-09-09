@@ -3,7 +3,7 @@
   "data": {
     "threshold": {
       "NFT": 0.2,
-      "VVV": 0.2,
+      "VVV": 0.5,
       "FLUID": 2.5,
       "USELESS": 3,
       "ZORA": 1,
