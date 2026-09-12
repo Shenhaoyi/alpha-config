@@ -51,6 +51,7 @@
       "UAI": 2,
       "PONS": 0.25,
       "----": 0,
+      "Anon": 8,
       "BAY": 3.9,
       "BGSC": 5.4,
       "BOOP": 4.5,
@@ -130,6 +131,7 @@
       "CRCLon"
     ],
     "original_threshold": [
+      "Anon",
       "BAY",
       "BGSC",
       "BOOP",
