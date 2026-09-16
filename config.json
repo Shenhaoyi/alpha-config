@@ -52,6 +52,7 @@
       "PONS": 0.25,
       "CROSS": 1,
       "----": 0,
+      "42": 8,
       "AB": 4.9,
       "BAY": 3.9,
       "BGSC": 5.6,
@@ -133,6 +134,7 @@
       "CRCLon"
     ],
     "original_threshold": [
+      "42",
       "AB",
       "BAY",
       "BGSC",
