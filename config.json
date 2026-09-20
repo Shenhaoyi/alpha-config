@@ -210,6 +210,10 @@
     ],
     "min_threshold": {
       "哈基米": 0.4
-    }
+    },
+    "order_book_trace": [
+      "B2",
+      "AKE"
+    ]
   }
 }
