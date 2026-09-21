@@ -24,6 +24,7 @@
       "ZEST": 2,
       "VELVET": 2.5,
       "BLUAI": 2,
+      "UAI": 3,
       "龙虾": 1.5,
       "CYS": 2,
       "APR": 2,
@@ -206,7 +207,8 @@
       "CNPY",
       "AKE",
       "BSB",
-      "龙虾"
+      "龙虾",
+      "UAI"
     ],
     "skip_high_liquidity_threshold": [
       "大额单子小阈值处理的黑名单",
