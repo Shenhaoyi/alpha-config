@@ -68,7 +68,8 @@
       "ROLL": 4,
       "SUP": 4.3,
       "VITA": 3.3,
-      "VRA": 5.6
+      "VRA": 5.6,
+      "ZETA": 7
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的"
@@ -146,6 +147,7 @@
       "ROLL",
       "SUP",
       "VRA",
+      "ZETA",
       "设置了自定义阈值的",
       "VVV",
       "FLUID",
