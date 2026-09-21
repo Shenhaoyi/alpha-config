@@ -127,7 +127,8 @@
       "WMTX",
       "OBOL",
       "quote异常",
-      "US"
+      "US",
+      "SIGMA"
     ],
     "use_bn_dex_price": [
       "CRCLon",
