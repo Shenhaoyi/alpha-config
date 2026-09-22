@@ -56,6 +56,8 @@
       "R2": 5,
       "PIEVERSE": 3,
       "AGT": 3,
+      "ANOME": 4,
+      "RHEA": 4,
       "----": 0,
       "42": 8.1,
       "AB": 4.9,
@@ -191,6 +193,8 @@
       "R2",
       "BTW",
       "PIEVERSE",
+      "ANOME",
+      "RHEA",
       "买卖差价有点巨大的，采用原始阈值",
       "PROMPT",
       "CPOOL",
@@ -212,7 +216,8 @@
       "BSB",
       "龙虾",
       "UAI",
-      "VVV"
+      "VVV",
+      "PIEVERSE"
     ],
     "skip_high_liquidity_threshold": [
       "大额单子小阈值处理的黑名单",
