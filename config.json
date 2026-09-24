@@ -60,8 +60,8 @@
       "Mubarakah": 3.5,
       "PTB": 2.5,
       "FOLKS": 3,
-      "TAKE": 3.5,
-      "ARTX": 6,
+      "TAKE": 2.5,
+      "ARTX": 3,
       "----": 0,
       "42": 8.7,
       "AB": 4.7,
@@ -137,7 +137,8 @@
       "XNY",
       "quote异常",
       "US",
-      "BEE"
+      "BEE",
+      "ZKJ"
     ],
     "use_bn_dex_price": [
       "CRCLon",
