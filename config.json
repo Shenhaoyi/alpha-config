@@ -95,7 +95,8 @@
     "skip_quote": [
       "PePe",
       "CRCLon",
-      "KOGE"
+      "KOGE",
+      "US"
     ],
     "bn_alpha2": [],
     "okx_alpha": [],
@@ -134,7 +135,6 @@
       "临时拉黑",
       "KOGE",
       "quote异常",
-      "US",
       "BEE",
       "ZKJ"
     ],
