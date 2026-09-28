@@ -83,7 +83,8 @@
       "VITA": 3.6,
       "VRA": 4.9,
       "ZETA": 7.8,
-      "ZEUS": 8.8
+      "ZEUS": 8.8,
+      "PUBLIC": 10
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的"
@@ -139,7 +140,6 @@
       "临时拉黑",
       "quote异常",
       "KOGE",
-      "BEE",
       "ZKJ",
       "VITA"
     ],
@@ -172,6 +172,7 @@
       "VRA",
       "ZETA",
       "ZEUS",
+      "PUBLIC",
       "设置了自定义阈值的",
       "VVV",
       "FLUID",
