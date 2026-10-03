@@ -83,7 +83,7 @@
       "POKT": 4.1,
       "PUBLIC": 8.1,
       "PUMPBTC": 4.3,
-      "QAIT": 5,
+      "QAIT": 7,
       "ROAM": 4.2,
       "ROLL": 4.3,
       "SD": 3.1,
@@ -145,7 +145,7 @@
       "quote异常",
       "KOGE",
       "ZKJ",
-      "QAIT"
+      "AI"
     ],
     "use_bn_dex_price": [
       "CRCLon",
