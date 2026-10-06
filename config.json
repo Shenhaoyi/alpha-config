@@ -135,7 +135,9 @@
       "临时拉黑",
       "quote异常",
       "KOGE",
-      "ZKJ"
+      "ZKJ",
+      "撮合异常",
+      "BREW"
     ],
     "use_bn_dex_price": [
       "CRCLon",
