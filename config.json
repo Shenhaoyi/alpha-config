@@ -137,7 +137,8 @@
       "KOGE",
       "ZKJ",
       "撮合异常",
-      "BREW"
+      "BREW",
+      "PUMPBTC"
     ],
     "use_bn_dex_price": [
       "CRCLon",
