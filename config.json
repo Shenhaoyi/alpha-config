@@ -131,7 +131,8 @@
       "quote异常",
       "KOGE",
       "ZKJ",
-      "撮合异常"
+      "撮合异常",
+      "42"
     ],
     "use_bn_dex_price": [
       "CRCLon",
