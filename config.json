@@ -86,11 +86,11 @@
       "=上面是老是瞬间插针的=",
       "=上面是已拉黑，但脚本还没剔除的=",
       "GAME",
-      "ZEUS",
       "临时拉黑",
       "quote异常",
       "撮合异常",
-      "BEE"
+      "BEE",
+      "SHADOW"
     ],
     "use_bn_dex_price": [
       "CRCLon",
