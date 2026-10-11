@@ -91,7 +91,9 @@
       "撮合异常",
       "BEE",
       "SHADOW",
-      "ZRC"
+      "ZRC",
+      "RHEA",
+      "DORA"
     ],
     "use_bn_dex_price": [
       "CRCLon",
