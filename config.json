@@ -90,7 +90,8 @@
       "quote异常",
       "撮合异常",
       "BEE",
-      "SHADOW"
+      "SHADOW",
+      "ZRC"
     ],
     "use_bn_dex_price": [
       "CRCLon",
