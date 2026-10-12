@@ -88,12 +88,7 @@
       "GAME",
       "临时拉黑",
       "quote异常",
-      "撮合异常",
-      "BEE",
-      "SHADOW",
-      "ZRC",
-      "RHEA",
-      "DORA"
+      "撮合异常"
     ],
     "use_bn_dex_price": [
       "CRCLon",
