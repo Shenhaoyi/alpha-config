@@ -88,7 +88,9 @@
       "GAME",
       "临时拉黑",
       "quote异常",
-      "撮合异常"
+      "撮合异常",
+      "DAM",
+      "GAIN"
     ],
     "use_bn_dex_price": [
       "CRCLon",
