@@ -89,7 +89,8 @@
       "临时拉黑",
       "quote异常",
       "撮合异常",
-      "BEE"
+      "BEE",
+      "$PAAL"
     ],
     "use_bn_dex_price": [
       "CRCLon",
