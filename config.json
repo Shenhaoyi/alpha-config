@@ -13,7 +13,8 @@
       "QUID": 0.4,
       "FLOCK": 0.5,
       "SKR": 0.5,
-      "FLORK": 7,
+      "FLORK": 5,
+      "雪球": 5,
       "CP": 0.4,
       "XDP": 0.35,
       "PONS": 0.25,
@@ -26,10 +27,10 @@
       "AB": 4.4,
       "BABYSHARK": 4.6,
       "BAY": 3.4,
-      "BGSC": 5,
+      "BGSC": 4,
       "BOOP": 3.6,
       "BR": 3.4,
-      "DAM": 5.4,
+      "DAM": 4.4,
       "IR": 5.2,
       "LISA": 3.2,
       "PIPE": 6.8,
@@ -38,8 +39,8 @@
       "ROLL": 3.6,
       "SHADOW": 3.3,
       "VITA": 3.2,
-      "ZETA": 8.5,
-      "ZRC": 6.2
+      "ZETA": 7.5,
+      "ZRC": 5.2
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的"
@@ -126,6 +127,7 @@
       "QUID",
       "FLOCK",
       "ZORA",
+      "雪球",
       "FLORK",
       "CP",
       "XDP",
