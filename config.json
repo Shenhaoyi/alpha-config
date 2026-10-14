@@ -90,7 +90,9 @@
       "quote异常",
       "撮合异常",
       "ACN",
-      "AI"
+      "AI",
+      "BEE",
+      "$PAAL"
     ],
     "use_bn_dex_price": [
       "CRCLon",
