@@ -88,7 +88,9 @@
       "临时拉黑",
       "SD",
       "quote异常",
-      "撮合异常"
+      "撮合异常",
+      "ACN",
+      "AI"
     ],
     "use_bn_dex_price": [
       "CRCLon",
