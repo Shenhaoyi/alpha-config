@@ -96,7 +96,8 @@
       "quote异常",
       "撮合异常",
       "BEE",
-      "$PAAL"
+      "$PAAL",
+      "MEME"
     ],
     "use_bn_dex_price": [
       "CRCLon",
