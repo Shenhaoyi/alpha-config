@@ -88,8 +88,7 @@
       "临时拉黑",
       "quote异常",
       "ZKJ",
-      "撮合异常",
-      "42"
+      "撮合异常"
     ],
     "use_bn_dex_price": [
       "CRCLon",
@@ -135,7 +134,6 @@
       "PONS",
       "MEME",
       "CASHCAT",
-      "Q",
       "买卖差价有点巨大的，采用原始阈值",
       "PROMPT",
       "CPOOL",
