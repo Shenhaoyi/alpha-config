@@ -89,7 +89,8 @@
       "CRCLon",
       "quote异常",
       "ZKJ",
-      "撮合异常"
+      "撮合异常",
+      "RICE"
     ],
     "use_bn_dex_price": [
       "CRCLon",
