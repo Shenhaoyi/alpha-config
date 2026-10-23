@@ -88,8 +88,7 @@
       "CRCLon",
       "quote异常",
       "ZKJ",
-      "撮合异常",
-      "GSTOCK"
+      "撮合异常"
     ],
     "use_bn_dex_price": [
       "CRCLon",
