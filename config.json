@@ -173,7 +173,8 @@
       "CT",
       "DGAI",
       "DNA",
-      "ACU"
+      "ACU",
+      "BULLA"
     ],
     "skip_high_liquidity_threshold": [
       "大额单子小阈值处理的黑名单"
