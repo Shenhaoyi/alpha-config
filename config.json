@@ -93,11 +93,9 @@
       "=已拉黑，但脚本还没剔除的=",
       "RECALL",
       "临时拉黑",
-      "PePe",
       "quote异常",
       "ZKJ",
-      "撮合异常",
-      "AI"
+      "撮合异常"
     ],
     "use_bn_dex_price": [
       "CRCLon",
