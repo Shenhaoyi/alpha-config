@@ -94,7 +94,8 @@
       "临时拉黑",
       "quote异常",
       "ZKJ",
-      "撮合异常"
+      "撮合异常",
+      "AI"
     ],
     "use_bn_dex_price": [
       "CRCLon",
