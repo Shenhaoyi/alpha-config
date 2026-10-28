@@ -63,7 +63,8 @@
     "skip_quote": [
       "PePe",
       "CRCLon",
-      "KOGE"
+      "KOGE",
+      "NAVX"
     ],
     "bn_alpha2": [],
     "okx_alpha": [],
@@ -92,6 +93,8 @@
     "bn_alpha_history": [
       "=已拉黑，但脚本还没剔除的=",
       "RECALL",
+      "BABYSHARK",
+      "PIPE",
       "临时拉黑",
       "PePe",
       "quote异常",
