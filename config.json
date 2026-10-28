@@ -95,13 +95,13 @@
       "RECALL",
       "BABYSHARK",
       "PIPE",
+      "B3",
+      "ZETA",
       "临时拉黑",
-      "PePe",
       "quote异常",
       "ZKJ",
       "撮合异常",
-      "MEME",
-      "GSTOCK"
+      "MEME"
     ],
     "use_bn_dex_price": [
       "CRCLon",
