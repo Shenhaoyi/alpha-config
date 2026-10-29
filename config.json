@@ -90,17 +90,11 @@
     ],
     "bn_alpha_history": [
       "=已拉黑，但脚本还没剔除的=",
-      "RECALL",
-      "BABYSHARK",
-      "PIPE",
-      "B3",
       "ZETA",
       "临时拉黑",
       "quote异常",
       "ZKJ",
-      "撮合异常",
-      "MEME",
-      "AI"
+      "撮合异常"
     ],
     "use_bn_dex_price": [
       "CRCLon",
