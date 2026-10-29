@@ -191,6 +191,9 @@
     ],
     "min_threshold": {
       "哈基米": 0.4
-    }
+    },
+    "not_watch": [
+      "ALPHA_681"
+    ]
   }
 }
