@@ -52,7 +52,9 @@
       "GSTOCK",
       "ST",
       "KILO",
-      "TA"
+      "TA",
+      "BIRB",
+      "PONS"
     ],
     "quote_amount": {
       "NFT": 2300
