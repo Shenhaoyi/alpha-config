@@ -51,7 +51,8 @@
       "AXIS",
       "GSTOCK",
       "ST",
-      "KILO"
+      "KILO",
+      "TA"
     ],
     "quote_amount": {
       "NFT": 2300
