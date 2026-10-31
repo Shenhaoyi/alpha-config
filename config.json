@@ -70,8 +70,8 @@
     "skip_quote": [
       "PePe",
       "CRCLon",
-      "KOGE",
-      "NAVX"
+      "NAVX",
+      "US"
     ],
     "bn_alpha2": [],
     "okx_alpha": [],
@@ -103,16 +103,14 @@
       "OL",
       "BILL",
       "PIPE",
+      "MPLX",
       "临时拉黑",
       "quote异常",
-      "ZKJ",
       "撮合异常"
     ],
     "use_bn_dex_price": [
       "CRCLon",
-      "==",
-      "KOGE",
-      "ZKJ"
+      "=="
     ],
     "order_book": [
       "真的需要屏蔽的",
@@ -200,8 +198,6 @@
     "min_threshold": {
       "哈基米": 0.4
     },
-    "not_watch": [
-      "ALPHA_681"
-    ]
+    "not_watch": []
   }
 }
