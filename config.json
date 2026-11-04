@@ -88,7 +88,8 @@
       "ICNT",
       "EVAA",
       "RECALL",
-      "CLANKER"
+      "CLANKER",
+      "ESIM"
     ],
     "quote_amount": {
       "NFT": 2300
