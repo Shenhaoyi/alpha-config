@@ -99,7 +99,8 @@
       "DEBIT",
       "ELSA",
       "GWEI",
-      "AIOT"
+      "AIOT",
+      "UAI"
     ],
     "quote_amount": {
       "NFT": 2300
