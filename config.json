@@ -100,7 +100,8 @@
       "ELSA",
       "GWEI",
       "AIOT",
-      "UAI"
+      "UAI",
+      "swarms"
     ],
     "quote_amount": {
       "NFT": 2300
