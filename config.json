@@ -101,8 +101,6 @@
       "临时拉黑",
       "SHADOW",
       "BLUE",
-      "UAI",
-      "PEAQ",
       "AI",
       "PONS",
       "GSTOCK",
@@ -112,9 +110,13 @@
       "NS",
       "US",
       "SUNDOG",
+      "关充值",
+      "UAI",
+      "PEAQ",
       "quote异常",
       "撮合异常",
       "BROCCOLI"
+
     ],
     "use_bn_dex_price": [
       "CRCLon",
