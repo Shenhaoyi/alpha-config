@@ -30,6 +30,7 @@
       "42": 8.5,
       "AB": 4.8,
       "ALEO": 4.6,
+      "BABYSHARK": 5,
       "BGSC": 5.6,
       "BOOP": 4,
       "CHECK": 6.3,
@@ -97,6 +98,7 @@
     "bn_alpha_history": [
       "=已拉黑，但脚本还没剔除的=",
       "临时拉黑",
+      "TROLL",
       "quote异常",
       "撮合异常"
     ],
@@ -112,6 +114,7 @@
       "42",
       "AB",
       "ALEO",
+      "BABYSHARK",
       "BGSC",
       "BOOP",
       "CHECK",
