@@ -100,7 +100,8 @@
       "临时拉黑",
       "TROLL",
       "quote异常",
-      "撮合异常"
+      "撮合异常",
+      "R2"
     ],
     "use_bn_dex_price": [
       "CRCLon",
