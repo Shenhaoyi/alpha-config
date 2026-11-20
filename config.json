@@ -106,7 +106,8 @@
       "临时拉黑",
       "quote异常",
       "撮合异常",
-      "BROCCOLI"
+      "BROCCOLI",
+      "X"
     ],
     "use_bn_dex_price": [
       "CRCLon",
