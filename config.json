@@ -56,7 +56,8 @@
       "VITA": 5,
       "XCX": 6.2,
       "XNY": 4.5,
-      "ZRC": 9.3
+      "ZRC": 9.3,
+      "PUBLIC": 8
     },
     "not_repeated_notify": [
       "不要重复通知，适用于额度大但没利润的"
@@ -150,6 +151,7 @@
       "XCX",
       "XNY",
       "ZRC",
+      "PUBLIC",
       "设置了自定义阈值的",
       "VVV",
       "FLUID",
