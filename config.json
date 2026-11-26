@@ -9,7 +9,6 @@
       "ZORA": 1,
       "PePe": 1.5,
       "ALCH": 2,
-      "MAGMA": 2.5,
       "QUID": 0.4,
       "FLOCK": 0.5,
       "SKR": 0.5,
@@ -169,7 +168,6 @@
       "CPOOL",
       "VITA",
       "OBOL",
-      "MAGMA",
       "ACN"
     ],
     "use_full_depth": [
