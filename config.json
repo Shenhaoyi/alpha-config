@@ -205,7 +205,8 @@
       "ACU",
       "BULLA",
       "AGT",
-      "COLLECT"
+      "COLLECT",
+      "MAGMA"
     ],
     "skip_high_liquidity_threshold": [
       "大额单子小阈值处理的黑名单"
